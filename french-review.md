@@ -122,6 +122,37 @@ No liaison before **et**: *un garçon et une fille* — uhn gar-sohn ay ewn fee.
 
 **Neither:** *tu es* — tew eh.
 
+## à — to / at / in
+
+**à** sounds like **ah**. It is a preposition, not a verb.
+
+| Written | Sounds like | Meaning |
+| --- | --- | --- |
+| **à** | ah | to / at / in |
+| **a** | ah | has (from **avoir**) |
+
+They sound the same. The accent is only in writing:
+
+- Elle **a** une voiture. — she **has** a car
+- Elle va **à** Paris. — she goes **to** Paris
+
+**à** + article often changes:
+
+| Written | Sounds like | Meaning |
+| --- | --- | --- |
+| **à + le → au** | oh | to the (masculine) |
+| **à + les → aux** | oh | to the (plural) |
+| **à + la → à la** | ah lah | to the (feminine) |
+| **à + l’ → à l’** | ah l- | to the (before a vowel) |
+
+Examples:
+
+- Je vais **à** Paris. — zhuh veh ah pa-ree
+- Je vais **à la** maison. — zhuh veh ah lah may-zohn
+- Je vais **à l’**école. — zhuh veh ah lay-kul
+- Nous allons **au** Canada. — noo zah-lohn oh ka-na-dah
+- Ils vont **aux** États-Unis. — eel vohn oh zay-tah-zew-nee
+
 ## Aller — to go
 
 **aller** sounds like **ah-lay**.
