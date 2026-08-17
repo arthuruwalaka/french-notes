@@ -181,3 +181,5 @@ Examples:
 - heuresuses → **heureuses** (uh-ruz)
 - Je suis un chat → **J’ai un chat** (jay uhn shah)
 - Elles ont à l’école → **Elles sont à l’école** (ell sohn ah lay-kul)
+- **a** = has (Elle **a** une voiture)
+- **à** = to / at / in (Elle va **à** Paris)
