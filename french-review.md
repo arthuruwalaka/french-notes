@@ -170,6 +170,173 @@ Examples:
 - Elle va à la maison. — ell vah ah lah may-zohn
 - Nous allons à Paris. — noo zah-lohn ah pa-ree
 
+## Faire — to do / to make
+
+**faire** sounds like **fehr**. It does **not** mean “to take”; **prendre** means “to take.”
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **fais** | feh |
+| tu | **fais** | feh |
+| il / elle | **fait** | feh |
+| nous | **faisons** | fuh-zohn |
+| vous | **faites** | fet |
+| ils / elles | **font** | fohn (nasal) |
+
+- Je fais la vaisselle. — I do / I am doing the dishes.
+- Il fait un gâteau. — He makes / is making a cake.
+- Il fait beau. — The weather is nice.
+
+French present tense can mean both **I do** and **I am doing**. Context tells you which one:
+
+- **Je fais** = I do / I am doing
+- **Je suis en train de faire** = I am in the middle of doing
+
+**faisant** (fuh-zahn) means “doing/making,” but it cannot replace the conjugated verb:
+
+- **Je fais** la vaisselle. — I am doing the dishes.
+- Il écoute de la musique **en faisant** la vaisselle. — He listens to music while doing the dishes.
+- Not: *Je faisant*
+
+Past participle: **fait**. **J’ai fait** = I did / I have done.
+
+## Prendre — to take / to have
+
+**prendre** sounds like **prahn-druh**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **prends** | prahn |
+| tu | **prends** | prahn |
+| il / elle | **prend** | prahn |
+| nous | **prenons** | pruh-nohn |
+| vous | **prenez** | pruh-nay |
+| ils / elles | **prennent** | pren |
+
+- Je prends le bus. — I take the bus.
+- Je prends un café. — I’ll have a coffee.
+
+Past participle: **pris** (pree). **J’ai pris** = I took / I have taken.
+
+## Venir — to come
+
+**venir** sounds like **vuh-neer**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **viens** | vyehn (nasal) |
+| tu | **viens** | vyehn (nasal) |
+| il / elle | **vient** | vyehn (nasal) |
+| nous | **venons** | vuh-nohn |
+| vous | **venez** | vuh-nay |
+| ils / elles | **viennent** | vyen |
+
+Commands:
+
+- **Viens !** — Come! (one person, informal)
+- **Venez !** — Come! (formal or more than one person)
+- Venez ici, s’il vous plaît. — Come here, please.
+
+## Savoir — to know
+
+**savoir** sounds like **sah-vwahr**. Use it for facts, information, and knowing how to do something.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **sais** | seh |
+| tu | **sais** | seh |
+| il / elle | **sait** | seh |
+| nous | **savons** | sah-vohn |
+| vous | **savez** | sah-vay |
+| ils / elles | **savent** | sahv |
+
+- Je sais. — I know.
+- Je sais cuisiner. — I know how to cook.
+- Tu sais où il habite ? — Do you know where he lives?
+
+**Savoir vs connaître**
+
+- **savoir** = know a fact or know how: *Je sais cuisiner.*
+- **connaître** = know or be familiar with a person/place: *Je connais Paris.*
+
+## Negation — ne...pas
+
+Put **ne...pas** around the conjugated verb:
+
+- Je sais. → Je **ne sais pas**. — I do not know.
+- Il aime le café. → Il **n’aime pas** le café.
+
+Before a vowel or silent **h**, **ne** becomes **n’**. In casual speech, people often drop **ne** (*Je sais pas*), but keep it in careful speech and formal writing.
+
+## Useful question words and expressions
+
+| French | Sounds like | Meaning |
+| --- | --- | --- |
+| **où** | oo | where |
+| **ou** | oo | or |
+| **ici** | ee-see | here |
+| **combien** | kohm-byehn | how much / how many |
+| **voilà** | vwah-lah | here/there it is; there you go |
+| **d’accord** | dah-kor | okay / agreed |
+| **s’il vous plaît** | seel voo pleh | please (formal/plural) |
+| **s’il te plaît** | seel tuh pleh | please (informal singular) |
+
+The accent changes the meaning: **où** = where, but **ou** = or.
+
+## Ça va, bien, très bien
+
+- **Ça va ?** (sah vah) — How’s it going? / Are you okay?
+- **Ça va.** — I’m okay / It’s going fine.
+- **Ça va bien.** (sah vah byehn) — I’m doing well.
+- **Très bien.** (treh byehn) — Very well.
+
+**ça** means “it/that,” and **va** means “goes” (from **aller**). The expression literally works like “How’s it going?” in English.
+
+## Impersonal il
+
+**il** normally means “he,” but it can be a placeholder meaning “it,” especially for weather, time, and necessity:
+
+- **Il va pleuvoir.** — It is going to rain.
+- **Il fait froid.** — It is cold.
+- **Il est trois heures.** — It is three o’clock.
+- **Il faut étudier.** — It is necessary to study / You need to study.
+
+In **Il va pleuvoir**, **il** does not refer to a man.
+
+## “Some” — partitive articles
+
+Use these for an unspecified amount:
+
+| Form | Use | Example |
+| --- | --- | --- |
+| **du** = de + le | masculine singular | du pain |
+| **de la** | feminine singular | de la soupe |
+| **de l’** | before a vowel/silent h | de l’eau |
+| **des** = de + les | plural | des pommes |
+
+After a negative, these normally become **de/d’**:
+
+- J’ai du pain. — I have some bread.
+- Je n’ai pas **de** pain. — I do not have any bread.
+- Je bois de l’eau. — I drink some water.
+- Je ne bois pas **d’**eau. — I do not drink any water.
+
+## Passé composé — everyday completed past
+
+**Passé composé** means “compound past.” Use it for completed past actions. It often translates as either **I did** or **I have done**.
+
+Formation:
+
+**present tense of avoir or être + past participle**
+
+- J’**ai mangé**. — I ate / I have eaten.
+- J’**ai fait** la vaisselle. — I did the dishes.
+- Elle **est partie**. — She left / She has left.
+
+Most verbs use **avoir**. Some movement verbs and reflexive verbs use **être**. With **être**, the past participle usually agrees with the subject: *Il est parti; elle est partie.*
+
+The **passé simple** expresses a similar completed past but is mainly literary. Recognize forms such as *il mangea* or *je fis* when reading; use the **passé composé** in everyday speech and writing.
+
 ## Common corrections
 
 - un voiture → **une voiture** (ewn vwah-tewr)
