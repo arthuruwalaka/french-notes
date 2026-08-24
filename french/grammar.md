@@ -14,6 +14,20 @@
 - **être**: identity, description, and location
 - **avoir**: possession and age
 
+## Auxiliary verbs
+
+An **auxiliary** is a helping verb. French uses **avoir** or **être** with a main verb’s past participle to form compound tenses:
+
+- Il **est parti**. — He left.
+  - **est** = auxiliary; **parti** = main verb’s past participle
+- J’**ai mangé**. — I ate.
+  - **ai** = auxiliary; **mangé** = main verb’s past participle
+
+**Être** also forms the passive voice:
+
+- Paul ferme la porte. — Paul closes the door.
+- La porte **est fermée** par Paul. — The door is closed by Paul.
+
 ## Present actions
 
 French does not need a separate “-ing” tense:
@@ -49,6 +63,78 @@ In casual speech, people often drop **ne** (*Je sais pas*), but keep it in caref
 
 In *Il va pleuvoir*, **il** does not refer to a man.
 
+French also uses **il** for a masculine person or thing. Context identifies the meaning:
+
+- Paul arrive. Quand arrive-t-**il** ? — When does **he** arrive?
+- Le train arrive. Quand arrive-t-**il** ? — When does **it** arrive?
+
+In an inverted question, the **-t-** is only a pronunciation bridge:
+
+- il arrive → arrive-**t**-il ?
+- elle arrive → arrive-**t**-elle ?
+
+## Object pronoun me
+
+**me** goes before a verb and can mean **me**, **to me**, or **myself**:
+
+- Il **me** voit. — He sees **me**. (direct object)
+- Il **me** parle. — He speaks **to me**. (indirect object)
+- Je **me** lave. — I wash **myself**. (reflexive)
+
+Before a vowel or silent **h**, use **m’**:
+
+- Il **m’**écoute. — He listens to me.
+
+After a preposition or for emphasis, use **moi**:
+
+- avec moi — with me
+- pour moi — for me
+- Donne-le-moi. — Give it to me.
+
+## ce, ça, c’est, and sa
+
+### ce — this/that before a noun
+
+| Form | Use | Example |
+| --- | --- | --- |
+| **ce** | masculine before a consonant | ce livre |
+| **cet** | masculine before a vowel/silent h | cet homme |
+| **cette** | feminine singular | cette voiture |
+| **ces** | plural | ces livres |
+
+### ça — this/that/it by itself
+
+- Ça va. — It is going well.
+- Je veux ça. — I want that.
+- Not: *ça livre*
+
+### c’est — it/this/that is
+
+**ce + est → c’est**
+
+- C’est bon. — It is good.
+- C’est une voiture. — It is a car.
+- Ce n’est pas moi. — It is not me.
+
+Use **c’est** to identify something; use **il/elle est** to describe an already-known person or thing:
+
+- C’est Marie. — This is Marie.
+- Elle est française. — She is French.
+
+### sa — his/her/its
+
+**sa** is used before a feminine singular noun. It agrees with the thing owned, not the owner:
+
+- Paul aime **sa voiture**. — Paul likes his car.
+- Marie aime **sa voiture**. — Marie likes her car.
+
+Use **son** before a masculine noun or a feminine noun beginning with a vowel:
+
+- son livre
+- son amie
+
+Although **sa** and **ça** sound the same, **sa** shows possession and **ça** means “that/it.”
+
 ## “Some” — partitive articles
 
 Use these for an unspecified amount:
@@ -66,6 +152,28 @@ After a negative, these normally become **de/d’**:
 - Je n’ai pas **de** pain. — I do not have any bread.
 - Je bois de l’eau. — I drink some water.
 - Je ne bois pas **d’**eau. — I do not drink any water.
+
+Compare:
+
+- **riz** — the dictionary word or a label
+- **du riz** — some rice / rice as an unspecified amount
+- **le riz** — rice in general or the specific rice
+- **de riz** — after a quantity or negative: *beaucoup de riz; pas de riz*
+
+## qui and que
+
+Both can connect clauses, but their grammatical roles differ:
+
+- **qui** is the subject of the following verb: *L’homme **qui arrive*** — the man **who is arriving**
+- **que** is the object of the following verb: *Le livre **que j’ai lu*** — the book **that I read**
+
+**que** also means “that” before a clause:
+
+- Il dit **que** oui. — He says yes / He says that the answer is yes.
+
+**ne...que** means “only”:
+
+- Il ne mange **que** du riz. — He only eats rice.
 
 ## Passé composé — everyday completed past
 

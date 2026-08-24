@@ -10,6 +10,10 @@
 | **ou** | oo | or |
 | **ici** | ee-see | here |
 | **combien** | kohm-byehn | how much / how many |
+| **comment** | koh-mahn | how |
+| **quand** | kahn | when |
+| **qui** | kee | who |
+| **que / qu’** | kuh / k- | what / that |
 
 The accent changes the meaning: **où** = where, but **ou** = or.
 
@@ -17,6 +21,31 @@ The accent changes the meaning: **où** = where, but **ou** = or.
 - Tu veux du thé ou du café ? — Do you want tea or coffee?
 - Viens ici. — Come here.
 - Combien de personnes ? — How many people?
+- Comment faire ? — How do I/we do it? / What should I/we do?
+- Quand arrive-t-il ? — When does he/it arrive?
+- Qui est-ce ? — Who is that?
+- Qu’est-ce que c’est ? — What is that?
+
+For “Who is that?”, **Qui est-ce ?** is more natural than *Qui est ça ?*. For a thing, ask **Qu’est-ce que c’est ?**
+
+## Si — if / yes, contrary to a negative
+
+**si** sounds like **see**.
+
+Use it for a condition:
+
+- Si tu veux, je peux venir. — If you want, I can come.
+- **si + il → s’il**: *S’il pleut...* — If it rains…
+
+Use **si**, not **oui**, to contradict a negative statement or question:
+
+> — Tu ne veux pas de café ?
+>
+> — Si, j’en veux.
+>
+> — You don’t want coffee?
+>
+> — Yes, I do.
 
 ## Ça va, bien, très bien
 

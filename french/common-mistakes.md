@@ -34,6 +34,20 @@
 - **ça** = it/that, not *ca*
 - **très** = very, not *tre*
 
+## Similar-sounding words
+
+- **ce** = this/that before a noun: **ce livre**
+- **ça** = this/that/it by itself: **Je veux ça**
+- **sa** = his/her/its before a feminine noun: **sa voiture**
+- **c’est** = it/this/that is: **C’est bon**
+- **ou** = or; **où** = where
+
+## Natural questions
+
+- “Who is that?” → **Qui est-ce ?** or informal **C’est qui ?**
+- “What is that?” → **Qu’est-ce que c’est ?**
+- **-t-** in *arrive-t-il ?* is only for pronunciation; it has no meaning.
+
 ## Agreement and plural
 
 - *deux chat* → **deux chats**

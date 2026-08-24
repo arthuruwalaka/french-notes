@@ -7,17 +7,17 @@ Beginner review notes for working toward **NCLC 7**.
 | Page | What it contains |
 | --- | --- |
 | [Quick reference](french/quick-reference.md) | Articles, gender, pronunciation, liaison, elision, and **à** |
-| [Essential verbs](french/verbs.md) | Être, avoir, aller, faire, prendre, venir, savoir, and vouloir |
-| [Grammar](french/grammar.md) | Negation, ongoing actions, impersonal **il**, partitives, and past tenses |
-| [Useful expressions](french/expressions.md) | **Où**, **ça va**, politeness, and common conversational phrases |
+| [Essential verbs](french/verbs.md) | Conjugations, pronunciation, and important verb constructions |
+| [Grammar](french/grammar.md) | Pronouns, demonstratives, negation, partitives, auxiliaries, and past tenses |
+| [Useful expressions](french/expressions.md) | Question words, **si**, **ça va**, politeness, and conversation |
 | [Common mistakes](french/common-mistakes.md) | Personal spelling, agreement, and verb corrections |
 
 ## Current focus
 
-1. Recognize and use the essential present-tense verbs.
-2. Distinguish **être**, **avoir**, **aller**, **faire**, and **prendre**.
-3. Practice short sentences using current Anki vocabulary.
-4. Review recurring mistakes before learning new cards.
+1. Use **me/m’** correctly as “me,” “to me,” or “myself.”
+2. Distinguish **ce**, **ça**, **c’est**, and **sa**.
+3. Practice **pouvoir**, **venir de**, **partir**, **comprendre**, and **dire**.
+4. Form questions with **comment**, **quand**, **qui**, and **que**.
 
 ## How these notes are maintained
 
