@@ -7,7 +7,7 @@ Beginner review notes for working toward **NCLC 7**.
 | Page | What it contains |
 | --- | --- |
 | [Quick reference](french/quick-reference.md) | Articles, gender, pronunciation, liaison, elision, and **à** |
-| [Essential verbs](french/verbs.md) | Être, avoir, aller, faire, prendre, venir, and savoir |
+| [Essential verbs](french/verbs.md) | Être, avoir, aller, faire, prendre, venir, savoir, and vouloir |
 | [Grammar](french/grammar.md) | Negation, ongoing actions, impersonal **il**, partitives, and past tenses |
 | [Useful expressions](french/expressions.md) | **Où**, **ça va**, politeness, and common conversational phrases |
 | [Common mistakes](french/common-mistakes.md) | Personal spelling, agreement, and verb corrections |

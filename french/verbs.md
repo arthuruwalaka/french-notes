@@ -146,3 +146,32 @@ Commands:
 
 - **savoir** = know a fact or know how: *Je sais cuisiner.*
 - **connaître** = know or be familiar with a person/place: *Je connais Paris.*
+
+## Vouloir — to want
+
+**vouloir** sounds like **voo-lwahr**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **veux** | vuh |
+| tu | **veux** | vuh |
+| il / elle | **veut** | vuh |
+| nous | **voulons** | voo-lohn |
+| vous | **voulez** | voo-lay |
+| ils / elles | **veulent** | vuhl |
+
+Use **vouloir + noun** or **vouloir + infinitive**:
+
+- Je veux du riz. — I want some rice.
+- Je veux manger. — I want to eat.
+- Vous voulez venir ? — Do you want to come?
+
+For a polite request, **je voudrais** means “I would like”:
+
+- Je voudrais un café, s’il vous plaît. — I would like a coffee, please.
+
+Important forms:
+
+- **voulu** — wanted (past participle)
+- **j’ai voulu** — I wanted / I have wanted
+- **je voudrai** — I will want
