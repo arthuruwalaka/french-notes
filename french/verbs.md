@@ -131,6 +131,24 @@ Commands:
 
 - Je viens de manger. — I just ate.
 
+### Revenir — to come back
+
+**revenir** follows the same pattern as **venir**:
+
+| Subject | Form |
+| --- | --- |
+| je | **reviens** |
+| tu | **reviens** |
+| il / elle | **revient** |
+| nous | **revenons** |
+| vous | **revenez** |
+| ils / elles | **reviennent** |
+
+- Il revient demain. — He is coming back tomorrow.
+- Ça revient à 50 €. — That comes to €50.
+
+The passé composé uses **être**: *Il est revenu; elle est revenue.*
+
 ## Savoir — to know
 
 **savoir** sounds like **sah-vwahr**. Use it for facts, information, and knowing how to do something.
@@ -238,7 +256,7 @@ Past participle: **pu**. *J’ai pu* = “I was able to / I managed to.”
 
 The passé composé uses **être**: *Il est parti; elle est partie.*
 
-## Regular -er verbs — parler and aider
+## Regular -er verbs — parler, aider, aimer, and donner
 
 Most French verbs follow the **-er** pattern. Remove **-er**, then add:
 
@@ -255,6 +273,21 @@ The endings **-e, -es,** and **-ent** are normally silent.
 
 - Je parle français. — I speak French.
 - Il aide sa mère. — He helps his mother.
+- J’aime le français. — I like French.
+- Donne-moi ça. — Give me that.
+
+Before a vowel, **je** shortens to **j’**: *j’aime; j’aide*.
+
+### Manger spelling
+
+**manger** follows the regular **-er** endings, but keeps an extra **e** in **nous mangeons** so the **g** retains its “zh” sound:
+
+- je mange
+- tu manges
+- il/elle mange
+- **nous mangeons**
+- vous mangez
+- ils/elles mangent
 
 ## Comprendre — to understand / to include
 
@@ -296,3 +329,22 @@ Past participle: **dit**. *J’ai dit* = “I said / I have said.”
 
 - Ça veut dire oui. — That means yes.
 - Qu’est-ce que ça veut dire ? — What does that mean?
+
+## Voir — to see / to understand
+
+**voir** sounds like **vwahr**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **vois** | vwah |
+| tu | **vois** | vwah |
+| il / elle | **voit** | vwah |
+| nous | **voyons** | vwah-yohn |
+| vous | **voyez** | vwah-yay |
+| ils / elles | **voient** | vwah |
+
+- Je vois un oiseau. — I see a bird.
+- Je vois le médecin demain. — I am seeing the doctor tomorrow.
+- Je vois. — I see / I understand.
+
+Past participle: **vu**. *J’ai vu* = “I saw / I have seen.”

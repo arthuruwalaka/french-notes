@@ -14,10 +14,10 @@ Beginner review notes for working toward **NCLC 7**.
 
 ## Current focus
 
-1. Use **me/m’** correctly as “me,” “to me,” or “myself.”
-2. Distinguish **ce**, **ça**, **c’est**, and **sa**.
-3. Practice **pouvoir**, **venir de**, **partir**, **comprendre**, and **dire**.
-4. Form questions with **comment**, **quand**, **qui**, and **que**.
+1. Put object pronouns before the verb: **Je t’aime; je le/la vois**.
+2. Use **moi/toi** after prepositions, for emphasis, and after positive commands.
+3. Recognize **on** as informal “we” or general “people.”
+4. Practice **revenir**, regular **-er** verbs, and **voir**.
 
 ## How these notes are maintained
 

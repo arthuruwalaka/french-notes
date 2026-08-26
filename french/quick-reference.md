@@ -45,6 +45,25 @@ Adjectives agree:
 - un petit garçon
 - une petite fille
 
+| Form of “small” | Use |
+| --- | --- |
+| **petit** | masculine singular |
+| **petite** | feminine singular |
+| **petits** | masculine/mixed plural |
+| **petites** | feminine plural |
+
+## Article or object pronoun?
+
+**le** and **la** have two different jobs:
+
+- Before a noun, they mean **the**: *le livre; la voiture*
+- Before a verb, they mean **him/her/it**: *Je le vois; je la vois*
+
+**un** can mean either the article “a/an” or the number “one”:
+
+- un livre — a book
+- numéro un — number one
+
 ## Liaison vs elision
 
 **Liaison** means pronouncing a normally silent final consonant before a vowel sound:

@@ -48,6 +48,17 @@
 - “What is that?” → **Qu’est-ce que c’est ?**
 - **-t-** in *arrive-t-il ?* is only for pronunciation; it has no meaning.
 
+## Object-pronoun placement
+
+- *J’aime toi* → **Je t’aime**
+- *Je vois le* → **Je le vois**
+- *Je aime* → **J’aime**
+- *Je te aime* → **Je t’aime**
+
+Use **toi** after a preposition or for emphasis: *pour toi; toi, je t’aime.*
+
+Positive commands are an exception: **Donne-moi ça.**
+
 ## Agreement and plural
 
 - *deux chat* → **deux chats**

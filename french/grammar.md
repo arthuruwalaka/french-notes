@@ -73,23 +73,62 @@ In an inverted question, the **-t-** is only a pronunciation bridge:
 - il arrive → arrive-**t**-il ?
 - elle arrive → arrive-**t**-elle ?
 
-## Object pronoun me
+## Object pronouns and placement
 
-**me** goes before a verb and can mean **me**, **to me**, or **myself**:
+In a normal statement, an object pronoun goes **before the conjugated verb**:
 
-- Il **me** voit. — He sees **me**. (direct object)
-- Il **me** parle. — He speaks **to me**. (indirect object)
+**subject + object pronoun + verb**
+
+| Pronoun | Meaning | Example |
+| --- | --- | --- |
+| **me / m’** | me, to me, myself | Il **m’**écoute. |
+| **te / t’** | you, to you, yourself | Je **t’**aime. |
+| **le / l’** | him or masculine “it” | Je **le** vois. |
+| **la / l’** | her or feminine “it” | Je **la** vois. |
+| **nous** | us, to us, ourselves | Il **nous** aide. |
+| **vous** | you, to you, yourself/yourselves | Je **vous** vois. |
+| **les** | them | Je **les** aime. |
+
+Before a vowel or silent **h**, **me, te, le,** and **la** shorten:
+
+- Je te aime → **Je t’aime.** — I love you.
+- Il me écoute → **Il m’écoute.** — He listens to me.
+- Je le aime / Je la aime → **Je l’aime.** — I love him/her/it.
+
+The pronoun’s role depends on the verb:
+
+- Il **me** voit. — He sees **me**. (direct)
+- Il **me** parle. — He speaks **to me**. (indirect)
 - Je **me** lave. — I wash **myself**. (reflexive)
 
-Before a vowel or silent **h**, use **m’**:
-
-- Il **m’**écoute. — He listens to me.
-
-After a preposition or for emphasis, use **moi**:
+Use stressed pronouns such as **moi/toi** after a preposition or for emphasis:
 
 - avec moi — with me
-- pour moi — for me
-- Donne-le-moi. — Give it to me.
+- pour toi — for you
+- **Toi**, je t’aime. — **You**, I love.
+
+### Exception: affirmative commands
+
+In a positive command, the pronoun goes **after** the verb with a hyphen:
+
+- Donne-**moi** ça. — Give me that.
+- Écoute-**moi**. — Listen to me.
+
+In a negative command, it returns before the verb:
+
+- Ne **me** donne pas ça. — Do not give me that.
+
+## Subject pronoun on
+
+**on** always uses the **il/elle** verb form. It has two common meanings:
+
+1. Informal **we**:
+   - **On y va.** — Let’s go / We’re going.
+   - On mange. — We are eating.
+2. General **people/one/they/someone**:
+   - **On dit que** c’est dangereux. — People say it is dangerous.
+
+In conversation, **on** is often more natural than **nous** for “we,” but **nous** remains common in formal writing.
 
 ## ce, ça, c’est, and sa
 
@@ -159,6 +198,20 @@ Compare:
 - **du riz** — some rice / rice as an unspecified amount
 - **le riz** — rice in general or the specific rice
 - **de riz** — after a quantity or negative: *beaucoup de riz; pas de riz*
+
+## Other uses of de
+
+**de** can also mean **of, from,** or **about**:
+
+- le livre **de** Marie — Marie’s book
+- Je viens **de** Paris. — I come from Paris.
+- Il parle **de** cinéma. — He talks about cinema.
+
+It combines with definite articles:
+
+- **de + le → du**: le livre du professeur
+- **de + les → des**: la maison des amis
+- **de la** and **de l’** do not contract
 
 ## qui and que
 

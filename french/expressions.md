@@ -90,3 +90,17 @@ Use them after prepositions, for emphasis, or in short answers:
 
 - Vous êtes là. — You are there.
 - Je vous vois. — I see you.
+
+## Hunger and time
+
+French uses **avoir** (“to have”) for hunger:
+
+- **J’ai faim.** — I am hungry. (literally: I have hunger)
+- Tu as faim ? — Are you hungry?
+
+French uses impersonal **il est** for clock time:
+
+- **Il est une heure.** — It is one o’clock.
+- **Il est deux heures.** — It is two o’clock.
+
+Use singular **heure** after one and plural **heures** after other numbers.
