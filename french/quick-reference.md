@@ -108,3 +108,38 @@ Do not make a liaison before **et**: *un garçon et une fille*.
 - Je vais **à l’école**.
 - Nous allons **au** Canada.
 - Ils vont **aux** États-Unis.
+
+## à vs dans vs en
+
+| Preposition | Main idea | Example |
+| --- | --- | --- |
+| **à** | at/to a point, city, or clock time | à Paris; à trois heures |
+| **dans** | physically inside; time from now | dans le sac; dans trois heures |
+| **en** | country/region, transport, time needed | en France; en train; en trois heures |
+
+Time comparison:
+
+- **à trois heures** — at 3:00
+- **dans trois heures** — three hours from now
+- **en trois heures** — taking three hours to complete
+
+Place and transport examples:
+
+- à Paris / en France / au Canada / aux États-Unis
+- dans la maison — inside the house
+- à la maison — at home
+- en voiture / en train / en avion
+- à pied / à vélo
+
+## chez, avec, and pour
+
+- **chez** — at/to someone’s home, workplace, or organization:
+  - chez moi — at my place
+  - chez le médecin — at the doctor’s office
+  - chez Renault — at Renault
+- **avec** — with or using:
+  - avec toi — with you
+  - avec un couteau — with a knife
+- **pour** — for, or in order to:
+  - C’est pour toi. — It is for you.
+  - J’étudie pour réussir. — I study to succeed.

@@ -52,6 +52,11 @@ Before a vowel or silent **h**, **ne** becomes **n’**.
 
 In casual speech, people often drop **ne** (*Je sais pas*), but keep it in careful speech and formal writing.
 
+Other negative patterns can replace **pas**:
+
+- Je ne vois **personne**. — I see nobody.
+- **personne** by itself means “person”; **ne...personne** means “nobody/no one.”
+
 ## Impersonal il
 
 **il** normally means “he,” but it can be a placeholder meaning “it,” especially for weather, time, and necessity:
@@ -88,6 +93,8 @@ In a normal statement, an object pronoun goes **before the conjugated verb**:
 | **nous** | us, to us, ourselves | Il **nous** aide. |
 | **vous** | you, to you, yourself/yourselves | Je **vous** vois. |
 | **les** | them | Je **les** aime. |
+| **lui** | to him / to her | Je **lui** parle. |
+| **leur** | to them | Je **leur** parle. |
 
 Before a vowel or silent **h**, **me, te, le,** and **la** shorten:
 
@@ -105,13 +112,18 @@ Use stressed pronouns such as **moi/toi** after a preposition or for emphasis:
 
 - avec moi — with me
 - pour toi — for you
+- avec lui — with him
+- avec elle — with her
 - **Toi**, je t’aime. — **You**, I love.
+
+As an indirect object, **lui** can mean “to him” or “to her.” After a preposition, **lui** means “him,” while **elle** means “her.”
 
 ### Exception: affirmative commands
 
 In a positive command, the pronoun goes **after** the verb with a hyphen:
 
 - Donne-**moi** ça. — Give me that.
+- Donne-**lui** le livre. — Give him/her the book.
 - Écoute-**moi**. — Listen to me.
 
 In a negative command, it returns before the verb:
@@ -130,7 +142,26 @@ In a negative command, it returns before the verb:
 
 In conversation, **on** is often more natural than **nous** for “we,” but **nous** remains common in formal writing.
 
-## ce, ça, c’est, and sa
+## Pronoun y
+
+**y** sounds like **ee** and normally replaces a place or **à + a thing/idea**:
+
+- Je vais à Paris. → J’**y** vais. — I am going there.
+- Nous sommes à l’école. → Nous **y** sommes. — We are there.
+- Je pense à mon examen. → J’**y** pense. — I am thinking about it.
+
+Do not normally use **y** for a person:
+
+- Je pense à Marie. → Je pense **à elle**.
+
+Placement:
+
+- J’**y** vais. — before a conjugated verb
+- Je veux **y** aller. — before the infinitive it belongs to
+- **Vas-y !** — after a positive command
+- N’**y** va pas. — before a negative command
+
+## ce, ça, c’est, and possessives
 
 ### ce — this/that before a noun
 
@@ -160,17 +191,25 @@ Use **c’est** to identify something; use **il/elle est** to describe an alread
 - C’est Marie. — This is Marie.
 - Elle est française. — She is French.
 
-### sa — his/her/its
+### mon/ma/mes, ton/ta/tes, son/sa/ses
 
-**sa** is used before a feminine singular noun. It agrees with the thing owned, not the owner:
+Possessive adjectives agree with the **thing owned**, not the owner:
 
+| Owner | Masculine singular | Feminine singular | Plural |
+| --- | --- | --- | --- |
+| my | **mon** | **ma** | **mes** |
+| your (informal) | **ton** | **ta** | **tes** |
+| his/her/its | **son** | **sa** | **ses** |
+
+- mon livre / ma voiture / mes livres
 - Paul aime **sa voiture**. — Paul likes his car.
 - Marie aime **sa voiture**. — Marie likes her car.
 
-Use **son** before a masculine noun or a feminine noun beginning with a vowel:
+Before a vowel or silent **h**, use **mon/ton/son** even with a feminine noun:
 
-- son livre
-- son amie
+- mon amie
+- ton école
+- son histoire
 
 Although **sa** and **ça** sound the same, **sa** shows possession and **ça** means “that/it.”
 
@@ -212,6 +251,12 @@ It combines with definite articles:
 - **de + le → du**: le livre du professeur
 - **de + les → des**: la maison des amis
 - **de la** and **de l’** do not contract
+
+**changer de + noun** means switching to another one:
+
+- changer de temps — change tense
+- changer de voiture — change cars
+- changer d’avis — change one’s mind
 
 ## qui and que
 
@@ -255,3 +300,29 @@ The **passé simple** expresses a completed past action but is mainly literary:
 - Literary: *Le roi mangea une pomme.*
 
 Recognize it when reading; use the **passé composé** in everyday speech and writing.
+
+## How verb tenses are built
+
+There is no single pattern for every verb, but many tenses reuse predictable stems and endings.
+
+For a regular **-er** verb such as **parler**:
+
+- Present: remove **-er**, then add **-e, -es, -e, -ons, -ez, -ent**
+- Passé composé: **avoir + -é** → *j’ai parlé*
+- Near future: **aller + infinitive** → *je vais parler*
+- Simple future: infinitive + **-ai, -as, -a, -ons, -ez, -ont**
+
+| Tense | Example | Meaning |
+| --- | --- | --- |
+| present | je parle | I speak / am speaking |
+| passé composé | j’ai parlé | I spoke |
+| near future | je vais parler | I am going to speak |
+| simple future | je parlerai | I will speak |
+
+Irregular verbs have stems that must be learned, but often reuse standard endings:
+
+- vouloir → **voudr-** → je voudrai
+- pouvoir → **pourr-** → je pourrai
+- venir → **viendr-** → je viendrai
+
+For each verb, learn its infinitive, six present forms, auxiliary + past participle, and future stem.

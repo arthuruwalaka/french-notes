@@ -14,10 +14,10 @@ Beginner review notes for working toward **NCLC 7**.
 
 ## Current focus
 
-1. Put object pronouns before the verb: **Je t’aime; je le/la vois**.
-2. Use **moi/toi** after prepositions, for emphasis, and after positive commands.
-3. Recognize **on** as informal “we” or general “people.”
-4. Practice **revenir**, regular **-er** verbs, and **voir**.
+1. Use **y** and **lui** in the correct position.
+2. Distinguish **à**, **dans**, **en**, and **chez**.
+3. Recognize the structures behind present, past, and future verb forms.
+4. Practice **appeler** and the differences between **voir**, **regarder**, and **écouter**.
 
 ## How these notes are maintained
 

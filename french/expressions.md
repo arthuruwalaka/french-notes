@@ -104,3 +104,39 @@ French uses impersonal **il est** for clock time:
 - **Il est deux heures.** — It is two o’clock.
 
 Use singular **heure** after one and plural **heures** after other numbers.
+
+## Il y a — there is/are or ago
+
+**Il y a** sounds roughly like **eel-yah**.
+
+Before a noun, it means “there is/are”:
+
+- Il y a un livre. — There is a book.
+- Il y a deux voitures. — There are two cars.
+
+Before a duration, it means “ago”:
+
+- Je l’ai vu **il y a trois heures**. — I saw him/it three hours ago.
+- Il y a deux jours. — Two days ago.
+
+Time comparison:
+
+- **Il est 3 h.** — It is 3 o’clock.
+- **Il y a 3 h.** — Three hours ago.
+- **Dans 3 h.** — In three hours.
+- **Pendant 3 h.** — For three hours.
+
+## Temps — time, weather, or tense
+
+Context determines the meaning of **temps**:
+
+- Je n’ai pas le **temps**. — I do not have time.
+- Quel **temps** fait-il ? — What is the weather like?
+- Le verbe change de **temps**. — The verb changes tense.
+
+## Names and introductions
+
+- Quel est ton **nom** ? — What is your name/surname?
+- Quel est ton **prénom** ? — What is your first/given name?
+- Je **m’appelle** Arthur. — My name is Arthur.
+- Merci, **monsieur**. — Thank you, sir.

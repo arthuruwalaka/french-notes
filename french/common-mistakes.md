@@ -59,6 +59,14 @@ Use **toi** after a preposition or for emphasis: *pour toi; toi, je t’aime.*
 
 Positive commands are an exception: **Donne-moi ça.**
 
+## Prepositions
+
+- *à Canada* → **au Canada**
+- *à train* → **en train**
+- *en deux heures* means it takes two hours
+- **dans deux heures** means two hours from now
+- *au États-Unis* → **aux États-Unis**
+
 ## Agreement and plural
 
 - *deux chat* → **deux chats**

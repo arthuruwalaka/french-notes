@@ -275,8 +275,11 @@ The endings **-e, -es,** and **-ent** are normally silent.
 - Il aide sa mère. — He helps his mother.
 - J’aime le français. — I like French.
 - Donne-moi ça. — Give me that.
+- J’habite en France. — I live in France.
+- Je regarde la télé. — I watch television.
+- J’écoute la radio. — I listen to the radio.
 
-Before a vowel, **je** shortens to **j’**: *j’aime; j’aide*.
+Before a vowel or silent **h**, **je** shortens to **j’**: *j’aime; j’aide; j’habite; j’écoute*.
 
 ### Manger spelling
 
@@ -288,6 +291,22 @@ Before a vowel, **je** shortens to **j’**: *j’aime; j’aide*.
 - **nous mangeons**
 - vous mangez
 - ils/elles mangent
+
+### Appeler spelling
+
+**appeler** means “to call.” It doubles the **l** in most present forms:
+
+| Subject | Form |
+| --- | --- |
+| je | **j’appelle** |
+| tu | **tu appelles** |
+| il / elle | **il appelle** |
+| nous | **nous appelons** |
+| vous | **vous appelez** |
+| ils / elles | **ils appellent** |
+
+- Je l’appelle tout de suite. — I’ll call him/her right away.
+- Je m’appelle Arthur. — My name is Arthur. (literally: I call myself Arthur)
 
 ## Comprendre — to understand / to include
 
@@ -348,3 +367,11 @@ Past participle: **dit**. *J’ai dit* = “I said / I have said.”
 - Je vois. — I see / I understand.
 
 Past participle: **vu**. *J’ai vu* = “I saw / I have seen.”
+
+### Voir, regarder, and écouter
+
+- **voir** = to see: *Je vois un oiseau.*
+- **regarder** = to look at/watch: *Je regarde la télé.*
+- **écouter** = to listen to: *J’écoute la radio.*
+
+Unlike English, **regarder** and **écouter** take their object directly—do not add a word for “at” or “to.”
