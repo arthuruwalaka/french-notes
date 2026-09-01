@@ -303,26 +303,14 @@ Recognize it when reading; use the **passé composé** in everyday speech and wr
 
 ## How verb tenses are built
 
-There is no single pattern for every verb, but many tenses reuse predictable stems and endings.
-
-For a regular **-er** verb such as **parler**:
-
-- Present: remove **-er**, then add **-e, -es, -e, -ons, -ez, -ent**
-- Passé composé: **avoir + -é** → *j’ai parlé*
-- Near future: **aller + infinitive** → *je vais parler*
-- Simple future: infinitive + **-ai, -as, -a, -ons, -ez, -ont**
-
-| Tense | Example | Meaning |
+| Form | General meaning | Example |
 | --- | --- | --- |
-| present | je parle | I speak / am speaking |
-| passé composé | j’ai parlé | I spoke |
-| near future | je vais parler | I am going to speak |
-| simple future | je parlerai | I will speak |
+| **Present** | Happens now or regularly | *je parle* — I speak/am speaking |
+| **Passé composé** | Completed past action | *j’ai parlé* — I spoke/have spoken |
+| **Near future** | Going to happen | *je vais parler* — I am going to speak |
+| **Imperfect** | Ongoing, repeated, or background past | *je parlais* — I was speaking/used to speak |
+| **Conditional** | Would happen; also polite | *je parlerais* — I would speak |
+| **Simple future** | Will happen | *je parlerai* — I will speak |
+| **Present subjunctive** | Desired, necessary, uncertain, or emotional action after a trigger | *que je parle* — that I speak |
 
-Irregular verbs have stems that must be learned, but often reuse standard endings:
-
-- vouloir → **voudr-** → je voudrai
-- pouvoir → **pourr-** → je pourrai
-- venir → **viendr-** → je viendrai
-
-For each verb, learn its infinitive, six present forms, auxiliary + past participle, and future stem.
+Quick guide: **do/am doing · did · going to do · was doing/used to do · would do · will do · “that someone do” after a trigger**
