@@ -14,10 +14,10 @@ Beginner review notes for working toward **NCLC 7**.
 
 ## Current focus
 
-1. Use **y** and **lui** in the correct position.
-2. Distinguish **à**, **dans**, **en**, and **chez**.
-3. Recognize the structures behind present, past, and future verb forms.
-4. Practice **appeler** and the differences between **voir**, **regarder**, and **écouter**.
+1. Distinguish **qui**, **que**, and **dont**.
+2. Recognize **faire** in action, causative, and weather patterns.
+3. Understand the general meaning of each common verb tense.
+4. Form questions with intonation, **est-ce que**, and inversion.
 
 ## How these notes are maintained
 

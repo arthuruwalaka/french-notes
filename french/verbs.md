@@ -25,6 +25,12 @@ Use **être** for identity, description, and location:
 
 Use the infinitive after another verb: *Je veux **être** médecin.*
 
+Key forms:
+
+- **est** — is
+- **était** — was/used to be (imperfect)
+- **été** — been (past participle): *j’ai été*
+
 ## Avoir — to have
 
 **avoir** sounds like **ah-vwahr**.
@@ -82,6 +88,12 @@ Write **j’ai**, never *je ai*.
 - Il fait beau. — The weather is nice.
 - Ça fait peur. — That is scary / That causes fear.
 - Ça fait rire. — That makes people laugh.
+
+Recognize the whole pattern:
+
+- **faire + noun** — do/make: *faire un gâteau*
+- **faire + infinitive** — cause: *faire rire; faire enrager*
+- **il fait + weather** — weather condition: *il fait froid*
 
 **faisant** (fuh-zahn) means “doing/making”:
 
@@ -193,6 +205,12 @@ Use **vouloir + noun** or **vouloir + infinitive**:
 For a polite request, **je voudrais** means “I would like”:
 
 - Je voudrais un café, s’il vous plaît. — I would like a coffee, please.
+
+Compare:
+
+- **je veux** — I want
+- **je voudrais** — I would like (conditional/polite)
+- **je voudrai** — I will want (future)
 
 Important forms:
 

@@ -126,6 +126,7 @@ Time comparison:
 Place and transport examples:
 
 - à Paris / en France / au Canada / aux États-Unis
+- en ville — in/to town
 - dans la maison — inside the house
 - à la maison — at home
 - en voiture / en train / en avion
@@ -143,3 +144,6 @@ Place and transport examples:
 - **pour** — for, or in order to:
   - C’est pour toi. — It is for you.
   - J’étudie pour réussir. — I study to succeed.
+- **entre** — between/among:
+  - entre toi et moi — between you and me
+  - *Entre !* also means “Come in!” from the verb **entrer**

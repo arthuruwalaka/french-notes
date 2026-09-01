@@ -41,6 +41,13 @@ Context tells you which meaning is intended. To emphasize an action happening ri
 
 - Je suis en train de faire la vaisselle. — I am in the middle of doing the dishes.
 
+### en + present participle
+
+Use **en + present participle** for simultaneous actions or a method:
+
+- Il écoute de la musique **en faisant** la vaisselle. — He listens to music while doing the dishes.
+- J’apprends **en pratiquant**. — I learn by practising.
+
 ## Negation — ne...pas
 
 Put **ne...pas** around the conjugated verb:
@@ -67,6 +74,14 @@ Other negative patterns can replace **pas**:
 - **Il faut étudier.** — It is necessary to study / You need to study.
 
 In *Il va pleuvoir*, **il** does not refer to a man.
+
+Common weather patterns:
+
+- **il fait + condition**: *Il fait froid/chaud/beau.*
+- **il y a + weather noun**: *Il y a du vent/soleil.*
+- **il + weather verb**: *Il pleut/neige.*
+
+In **il fait froid**, *faire* expresses producing a condition; translate the complete idiom as “it is cold.”
 
 French also uses **il** for a masculine person or thing. Context identifies the meaning:
 
@@ -200,6 +215,7 @@ Possessive adjectives agree with the **thing owned**, not the owner:
 | my | **mon** | **ma** | **mes** |
 | your (informal) | **ton** | **ta** | **tes** |
 | his/her/its | **son** | **sa** | **ses** |
+| your (formal/plural) | **votre** | **votre** | **vos** |
 
 - mon livre / ma voiture / mes livres
 - Paul aime **sa voiture**. — Paul likes his car.
@@ -258,12 +274,13 @@ It combines with definite articles:
 - changer de voiture — change cars
 - changer d’avis — change one’s mind
 
-## qui and que
+## qui, que, and dont
 
-Both can connect clauses, but their grammatical roles differ:
+These relative pronouns connect a noun to another clause:
 
 - **qui** is the subject of the following verb: *L’homme **qui arrive*** — the man **who is arriving**
 - **que** is the object of the following verb: *Le livre **que j’ai lu*** — the book **that I read**
+- **dont** replaces **de + noun**: *La femme **dont je parle*** — the woman I am talking **about**
 
 **que** also means “that” before a clause:
 
@@ -272,6 +289,14 @@ Both can connect clauses, but their grammatical roles differ:
 **ne...que** means “only”:
 
 - Il ne mange **que** du riz. — He only eats rice.
+
+Use **dont** with expressions requiring **de**:
+
+- parler de → le sujet **dont** je parle
+- avoir besoin de → le livre **dont** j’ai besoin
+- avoir peur de → la chose **dont** j’ai peur
+
+For “whose”: *La femme **dont le fils** est médecin.* Do not repeat **de** after **dont**.
 
 ## Passé composé — everyday completed past
 

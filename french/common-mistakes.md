@@ -41,6 +41,8 @@
 - **sa** = his/her/its before a feminine noun: **sa voiture**
 - **c’est** = it/this/that is: **C’est bon**
 - **ou** = or; **où** = where
+- **ton/ta/tes** = your; **avec** = with
+- **voudrais** = would like; **voudrai** = will want
 
 ## Natural questions
 
@@ -66,6 +68,14 @@ Positive commands are an exception: **Donne-moi ça.**
 - *en deux heures* means it takes two hours
 - **dans deux heures** means two hours from now
 - *au États-Unis* → **aux États-Unis**
+
+## Faire patterns
+
+- **il fait froid** — it is cold (weather)
+- **ça fait rire** — that makes people laugh
+- **ça a fait enrager** — that made someone furious
+
+Translate the complete pattern; **fait** does not always map to one English word.
 
 ## Agreement and plural
 

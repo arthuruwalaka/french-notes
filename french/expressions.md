@@ -14,6 +14,7 @@
 | **quand** | kahn | when |
 | **qui** | kee | who |
 | **que / qu’** | kuh / k- | what / that |
+| **pourquoi** | poor-kwah | why |
 
 The accent changes the meaning: **où** = where, but **ou** = or.
 
@@ -25,8 +26,17 @@ The accent changes the meaning: **où** = where, but **ou** = or.
 - Quand arrive-t-il ? — When does he/it arrive?
 - Qui est-ce ? — Who is that?
 - Qu’est-ce que c’est ? — What is that?
+- Pourquoi pas ? — Why not?
 
 For “Who is that?”, **Qui est-ce ?** is more natural than *Qui est ça ?*. For a thing, ask **Qu’est-ce que c’est ?**
+
+### Three question styles
+
+- **Tu comprends ?** — informal intonation
+- **Est-ce que tu comprends ?** — neutral/common
+- **Comprends-tu ?** — formal inversion
+
+**Est-ce que** is a question marker; do not translate it word by word.
 
 ## Si — if / yes, contrary to a negative
 
@@ -74,6 +84,14 @@ Natural exchange:
 - Voilà, c’est fini. — There, it’s finished.
 - D’accord. — Okay.
 - Venez ici, s’il vous plaît. — Come here, please.
+
+**S’il vous plaît** literally means “if it pleases you”:
+
+- **si + il → s’il**
+- **vous** — to you
+- **plaît** — pleases
+
+Use **s’il te plaît** with one person informally.
 
 ## Stressed pronouns
 
@@ -140,3 +158,23 @@ Context determines the meaning of **temps**:
 - Quel est ton **prénom** ? — What is your first/given name?
 - Je **m’appelle** Arthur. — My name is Arthur.
 - Merci, **monsieur**. — Thank you, sir.
+
+## High-frequency useful expressions
+
+- **quelqu’un** — someone: *Quelqu’un t’aime.*
+- **Il s’agit de...** — It is about/concerning…
+- **De qui s’agit-il ?** — Who is it?
+- **Je veux découvrir de qui il s’agit.** — I want to find out who it is.
+- **J’ai besoin d’aide.** — I need help.
+- **Attention !** — Watch out! / Be careful!
+- **Malheureusement, je ne peux pas.** — Unfortunately, I cannot.
+
+## Time words
+
+- **maintenant** — now
+- **demain** — tomorrow
+- **hier** — yesterday
+
+- Maintenant, il est tard. — Now it is late.
+- On part demain. — We are leaving tomorrow.
+- Hier, il a plu. — Yesterday it rained.
