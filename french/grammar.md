@@ -229,74 +229,39 @@ Before a vowel or silent **h**, use **mon/ton/son** even with a feminine noun:
 
 Although **sa** and **ça** sound the same, **sa** shows possession and **ça** means “that/it.”
 
-## “Some” — partitive articles
+## de, du, de la, de l’, and des
 
-Use these for an unspecified amount:
-
-| Form | Use | Example |
+| Situation | Rule | Example |
 | --- | --- | --- |
-| **du** = de + le | masculine singular | du pain |
-| **de la** | feminine singular | de la soupe |
-| **de l’** | before a vowel/silent h | de l’eau |
-| **des** = de + les | plural | des pommes |
+| Unspecified “some” | **du** masculine, **de la** feminine, **de l’** singular vowel, **des** plural | du pain; de la musique; de l’eau; des pommes |
+| After quantity/most negatives | **de/d’** | beaucoup de pain; pas d’eau |
+| Specific “of/from/about the” | de + **le → du**, **la → de la**, **l’ → de l’**, **les → des** | parler du film; de la série; de l’école; des étudiants |
+| Before infinitive/proper name | **de/d’** | promettre de venir; venir de Paris |
 
-After a negative, these normally become **de/d’**:
+Important:
 
-- J’ai du pain. — I have some bread.
-- Je n’ai pas **de** pain. — I do not have any bread.
-- Je bois de l’eau. — I drink some water.
-- Je ne bois pas **d’**eau. — I do not drink any water.
+- **de l’étudiant** = about the student; **des étudiants** = about the students. **De l’** is singular only.
+- **des étudiants** = some students; **parler des étudiants** = talk about the students (**de + les**).
+- “Some of the students” = **certains des étudiants**.
+- A quantity/container uses **de**: *une bouteille d’eau*.
 
-Compare:
-
-- **riz** — the dictionary word or a label
-- **du riz** — some rice / rice as an unspecified amount
-- **le riz** — rice in general or the specific rice
-- **de riz** — after a quantity or negative: *beaucoup de riz; pas de riz*
-
-## Other uses of de
-
-**de** can also mean **of, from,** or **about**:
-
-- le livre **de** Marie — Marie’s book
-- Je viens **de** Paris. — I come from Paris.
-- Il parle **de** cinéma. — He talks about cinema.
-
-It combines with definite articles:
-
-- **de + le → du**: le livre du professeur
-- **de + les → des**: la maison des amis
-- **de la** and **de l’** do not contract
-
-**changer de + noun** means switching to another one:
-
-- changer de temps — change tense
-- changer de voiture — change cars
-- changer d’avis — change one’s mind
+Other common patterns: **changer de voiture**, **changer d’avis**, **parler de cinéma**.
 
 ## qui, que, and dont
 
-These relative pronouns connect a noun to another clause:
+| Pronoun | Replaces | Example |
+| --- | --- | --- |
+| **qui** | subject | l’homme **qui arrive** |
+| **que** | direct object (no **de**) | le livre **que j’ai lu** |
+| **dont** | **de + noun** | la femme **dont je parle** |
 
-- **qui** is the subject of the following verb: *L’homme **qui arrive*** — the man **who is arriving**
-- **que** is the object of the following verb: *Le livre **que j’ai lu*** — the book **that I read**
-- **dont** replaces **de + noun**: *La femme **dont je parle*** — the woman I am talking **about**
+- Je parle **du film**. → Le film **dont** je parle.
+- Je parle **des étudiants**. → Les étudiants **dont** je parle.
+- J’ai **des étudiants** (“some”). → Les étudiants **que** j’ai, not **dont**.
+- **dont** can mean “whose”: *la femme dont le fils est médecin*.
+- Never repeat **de** after **dont**.
 
-**que** also means “that” before a clause:
-
-- Il dit **que** oui. — He says yes / He says that the answer is yes.
-
-**ne...que** means “only”:
-
-- Il ne mange **que** du riz. — He only eats rice.
-
-Use **dont** with expressions requiring **de**:
-
-- parler de → le sujet **dont** je parle
-- avoir besoin de → le livre **dont** j’ai besoin
-- avoir peur de → la chose **dont** j’ai peur
-
-For “whose”: *La femme **dont le fils** est médecin.* Do not repeat **de** after **dont**.
+Separate rule: **ne...que** means “only”: *Il ne mange que du riz.*
 
 ## Passé composé — everyday completed past
 
