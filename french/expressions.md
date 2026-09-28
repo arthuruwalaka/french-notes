@@ -123,6 +123,8 @@ French uses impersonal **il est** for clock time:
 
 Use singular **heure** after one and plural **heures** after other numbers.
 
+See [Numbers](numbers.md) for how to build and say the number itself.
+
 ## Il y a — there is/are or ago
 
 **Il y a** sounds roughly like **eel-yah**.
