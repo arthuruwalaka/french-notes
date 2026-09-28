@@ -23,13 +23,27 @@ Use **être** for identity, description, and location:
 - Elle est française.
 - Nous sommes à l’école.
 
-Use the infinitive after another verb: *Je veux **être** médecin.*
+Use the infinitive after another verb: *Je veux **être** médecin.* — I want to be a doctor.
+
+Imperfect — **was / used to be**:
+
+| Subject | Form | Sounds like | Meaning |
+| --- | --- | --- |
+| je | **j’étais** | zhay-teh | I was |
+| tu | **tu étais** | too ay-teh | you were |
+| il / elle / on | **était** | ay-teh | he/she/one was |
+| nous | **nous étions** | noo-zay-tee-ohn | we were |
+| vous | **vous étiez** | voo-zay-tee-ay | you were |
+| ils / elles | **ils étaient** | eel-zay-teh | they were |
+
+- **J’étais fatigué.** — I was tired.
+- **Nous étions à l’école.** — We were at school.
 
 Key forms:
 
 - **est** — is
 - **était** — was/used to be (imperfect)
-- **été** — been (past participle): *j’ai été*
+- **été** — been (past participle): *j’ai été* — I was / I have been
 
 ## Avoir — to have
 
