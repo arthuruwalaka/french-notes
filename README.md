@@ -7,6 +7,7 @@ Beginner review notes for working toward **NCLC 7**.
 | Page | What it contains |
 | --- | --- |
 | [Quick reference](french/quick-reference.md) | Articles, gender, pronunciation, liaison, elision, and **à** |
+| [Numbers](french/numbers.md) | 0–100+ with a 3-layer method, dates, age, and time |
 | [Essential verbs](french/verbs.md) | Conjugations, pronunciation, and important verb constructions |
 | [Grammar](french/grammar.md) | Pronouns, demonstratives, negation, partitives, auxiliaries, and past tenses |
 | [Useful expressions](french/expressions.md) | Question words, **si**, **ça va**, politeness, and conversation |
@@ -17,7 +18,7 @@ Beginner review notes for working toward **NCLC 7**.
 1. Distinguish **qui**, **que**, and **dont**.
 2. Recognize **faire** in action, causative, and weather patterns.
 3. Understand the general meaning of each common verb tense.
-4. Form questions with intonation, **est-ce que**, and inversion.
+4. Build numbers with the 3-layer method: **0–20**, **20–69**, then **70–99**.
 
 ## How these notes are maintained
 

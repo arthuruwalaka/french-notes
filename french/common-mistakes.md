@@ -82,3 +82,6 @@ Translate the complete pattern; **fait** does not always map to one English word
 - *deux chat* → **deux chats**
 - *heuresuses* → **heureuses**
 - **prêt** for masculine; **prête** for feminine
+- *quatre-vingt* alone for 80 → **quatre-vingts**
+- *quatre-vingts-un* → **quatre-vingt-un**
+- *un cent* → **cent**; *un mille* → **mille**
