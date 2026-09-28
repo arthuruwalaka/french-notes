@@ -206,26 +206,32 @@ Use **c’est** to identify something; use **il/elle est** to describe an alread
 - C’est Marie. — This is Marie.
 - Elle est française. — She is French.
 
-### mon/ma/mes, ton/ta/tes, son/sa/ses
+### Possessives — my, your, his/her, our, their
 
-Possessive adjectives agree with the **thing owned**, not the owner:
+Possessive adjectives agree with the **thing owned**, not the owner. **me** is not “my”; **me/m’** means “me” before a verb: *Il **me** voit.* — He sees me.
 
 | Owner | Masculine singular | Feminine singular | Plural |
 | --- | --- | --- | --- |
 | my | **mon** | **ma** | **mes** |
 | your (informal) | **ton** | **ta** | **tes** |
 | his/her/its | **son** | **sa** | **ses** |
+| our | **notre** | **notre** | **nos** |
 | your (formal/plural) | **votre** | **votre** | **vos** |
+| their | **leur** | **leur** | **leurs** |
 
-- mon livre / ma voiture / mes livres
-- Paul aime **sa voiture**. — Paul likes his car.
-- Marie aime **sa voiture**. — Marie likes her car.
+- **mon livre / ma voiture / mes livres** — my book / my car / my books
+- **notre maison / nos maisons** — our house / our houses
+- **leur nom / leurs noms** — their name / their names
+- **Paul aime sa voiture.** — Paul likes his car.
+- **Marie aime sa voiture.** — Marie likes her car.
+
+**notre / votre / leur** stay the same in the singular for masculine and feminine. Only the plural changes: **nos / vos / leurs**.
 
 Before a vowel or silent **h**, use **mon/ton/son** even with a feminine noun:
 
-- mon amie
-- ton école
-- son histoire
+- **mon amie** — my female friend
+- **ton école** — your school
+- **son histoire** — his/her story
 
 Although **sa** and **ça** sound the same, **sa** shows possession and **ça** means “that/it.”
 
