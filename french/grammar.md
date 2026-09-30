@@ -48,21 +48,34 @@ Use **en + present participle** for simultaneous actions or a method:
 - Il écoute de la musique **en faisant** la vaisselle. — He listens to music while doing the dishes.
 - J’apprends **en pratiquant**. — I learn by practising.
 
-## Negation — ne...pas
+## Negation
 
-Put **ne...pas** around the conjugated verb:
+Put **ne … pas** around the conjugated verb:
 
-- Je sais. → Je **ne sais pas**.
-- Il aime le café. → Il **n’aime pas** le café.
+- Je sais. → Je **ne sais pas**. — I know. → I don’t know.
+- Il aime le café. → Il **n’aime pas** le café. — He likes coffee. → He doesn’t like coffee.
 
 Before a vowel or silent **h**, **ne** becomes **n’**.
 
-In casual speech, people often drop **ne** (*Je sais pas*), but keep it in careful speech and formal writing.
+Other words replace **pas**. Do not use **pas** with them:
 
-Other negative patterns can replace **pas**:
+| Pair | Meaning | Example |
+| --- | --- | --- |
+| **ne … pas** | not | **Je ne vois pas.** — I don’t see. |
+| **ne … jamais** | never | **Je n’ai jamais vu ça.** — I’ve never seen that. |
+| **ne … plus** | no longer | **Je ne mange plus.** — I don’t eat anymore. |
+| **ne … plus jamais** | never again | **On n’invite plus jamais.** — We never invite again. |
+| **ne … rien** | nothing | **Je ne vois rien.** — I see nothing. |
+| **ne … personne** | no one | **Je ne vois personne.** — I see no one. |
 
-- Je ne vois **personne**. — I see nobody.
-- **personne** by itself means “person”; **ne...personne** means “nobody/no one.”
+**personne** by itself means “person”; **ne … personne** means “nobody/no one.”
+
+In casual speech, people often drop **ne**:
+
+- **Je sais pas.** — I don’t know.
+- **Plus jamais on invite.** — We’re never inviting again.
+
+Keep **ne** in careful speech and formal writing.
 
 ## Impersonal il
 
