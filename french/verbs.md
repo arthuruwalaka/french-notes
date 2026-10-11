@@ -407,3 +407,31 @@ Past participle: **vu**. *J’ai vu* = “I saw / I have seen.”
 - **écouter** = to listen to: *J’écoute la radio.*
 
 Unlike English, **regarder** and **écouter** take their object directly—do not add a word for “at” or “to.”
+
+## Vivre — to live / to experience
+
+**vivre** sounds like **vee-vruh**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **vis** | vee |
+| tu | **vis** | vee |
+| il / elle | **vit** | vee |
+| nous | **vivons** | vee-vohn |
+| vous | **vivez** | vee-vay |
+| ils / elles | **vivent** | veev |
+
+Two common uses:
+
+- to live somewhere: **Nous vivons à Paris.** — We live in Paris.
+- to experience / live through: **Nous avons vécu une guerre.** — We lived through a war.
+
+Past participle: **vécu** (vay-kü). The passé composé uses **avoir**:
+
+- **J’ai vécu.** — I lived / I have lived.
+- **J’ai vécu une belle journée.** — I had a wonderful day.
+
+Compare:
+
+- **habiter** — to reside in a place: **J’habite à Paris.**
+- **vivre** — to live, or to go through an experience
