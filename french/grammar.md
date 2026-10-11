@@ -158,6 +158,43 @@ In a negative command, it returns before the verb:
 
 - Ne **me** donne pas ça. — Do not give me that.
 
+## Reflexive pronouns
+
+A reflexive verb uses a matching pronoun because the subject does the action to itself. **se** is for **il / elle / on / ils / elles**. It is not “we.”
+
+| Subject | Reflexive | Example |
+| --- | --- | --- |
+| je | **me / m’** | **Je me lave.** — I wash myself. |
+| tu | **te / t’** | **Tu te laves.** — You wash yourself. |
+| il / elle / on | **se / s’** | **Il se lave.** — He washes himself. |
+| nous | **nous** | **Nous nous lavons.** — We wash ourselves. |
+| vous | **vous** | **Vous vous lavez.** — You wash yourself/yourselves. |
+| ils / elles | **se / s’** | **Ils se lavent.** — They wash themselves. |
+
+Before a vowel or silent **h**, **me / te / se → m’ / t’ / s’**:
+
+- **Je m’appelle Arthur.** — My name is Arthur.
+- **Il s’appelle Nico.** — His name is Nico.
+- **Elle s’habille.** — She gets dressed.
+- **Il s’est blessé au pied.** — He hurt his foot.
+
+Common uses:
+
+- Reflexive: **Il se réveille tôt.** — He wakes up early.
+- Reciprocal: **Ils se parlent.** — They talk to each other.
+- General/passive: **Ça se fait.** — People do that. / That is done.
+
+In the passé composé, reflexive verbs use **être**:
+
+- **Elle s’est réveillée.** — She woke up.
+- **Leur nom s’est transformé.** — Their name changed.
+
+Affirmative commands put the pronoun after the verb, and **te → toi**:
+
+- **Lève-toi.** — Get up.
+- **Lavez-vous.** — Wash yourself/yourselves.
+- **Ne te lève pas.** — Don’t get up.
+
 ## Subject pronoun on
 
 **on** always uses the **il/elle** verb form. It has two common meanings:
