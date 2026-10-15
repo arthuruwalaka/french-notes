@@ -270,6 +270,42 @@ Use **pouvoir + infinitive**:
 
 Past participle: **pu**. *J’ai pu* = “I was able to / I managed to.”
 
+## Devoir — to have to / must
+
+**devoir** sounds like **duh-vwahr**. Use **devoir + infinitive**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **dois** | dwah |
+| tu | **dois** | dwah |
+| il / elle | **doit** | dwah |
+| nous | **devons** | duh-vohn |
+| vous | **devez** | duh-vay |
+| ils / elles | **doivent** | dwahv |
+
+- **Je dois partir.** — I have to leave.
+- **Tu dois prévenir Nico.** — You have to let Nico know.
+- **Nous devons changer 50 dollars.** — We have to exchange 50 dollars.
+
+**devoir** can also mean **to owe**:
+
+- **Je te dois 10 euros.** — I owe you 10 euros.
+
+Key forms:
+
+- **je dois** — I have to / I must
+- **je devrais** — I should
+- **j’ai dû** — I had to
+- **j’aurais dû** — I should have
+
+- **Je devrais prendre la purée.** — I should get the mash.
+- **J’aurais dû le prendre.** — I should have taken it.
+
+**dû** is the past participle. Do not confuse it with **du** = **de + le**:
+
+- **J’ai dû partir.** — I had to leave.
+- **J’ai du pain.** — I have some bread.
+
 ## Partir — to leave
 
 **partir** sounds like **par-teer**.
@@ -435,3 +471,32 @@ Compare:
 
 - **habiter** — to reside in a place: **J’habite à Paris.**
 - **vivre** — to live, or to go through an experience
+
+## Sentir — to feel / to smell
+
+**sentir** sounds like **sahn-teer**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **sens** | sahn |
+| tu | **sens** | sahn |
+| il / elle | **sent** | sahn |
+| nous | **sentons** | sahn-tohn |
+| vous | **sentez** | sahn-tay |
+| ils / elles | **sentent** | sahnt |
+
+Two common uses:
+
+- to smell: **Je sens le café.** — I smell the coffee.
+- to sense / feel that: **Je sens que c’est vrai.** — I feel that it’s true.
+
+For how you feel physically or emotionally, use **se sentir**:
+
+- **Je me sens fatigué.** — I feel tired.
+- **Tu te sens bien ?** — Do you feel well?
+- **Il se sent mal.** — He feels bad / unwell.
+
+Past participle: **senti**. *J’ai senti* = “I felt / I smelled / I have felt.”
+
+- **Je me suis senti mieux.** — I felt better.  
+  Reflexive, so passé composé uses **être**.
