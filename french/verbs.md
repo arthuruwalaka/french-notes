@@ -4,6 +4,28 @@
 
 French present tense can express both a habit and an action happening now. For example, **je fais** can mean “I do” or “I am doing.”
 
+## Core verb table
+
+| Infinitive | Meaning | Key form | Sounds like |
+| --- | --- | --- | --- |
+| **aller** | to go | **je vais** | veh |
+| **avoir** | to have | **j’ai** | jay |
+| **croire** | to believe | **je crois** | krwah |
+| **devoir** | to have to / must | **je dois** | dwah |
+| **dire** | to say / to tell | **je dis** | dee |
+| **être** | to be | **je suis** | swee |
+| **faire** | to do / to make | **je fais** | feh |
+| **falloir** | to be necessary | **il faut** | eel fo |
+| **manquer** | to miss / to lack | **je manque** | mahnk |
+| **pouvoir** | can / to be able to | **je peux** | puh |
+| **savoir** | to know a fact / how | **je sais** | seh |
+| **tenir** | to hold / to keep | **je tiens** | tyehn |
+| **vivre** | to live / to experience | **je vis** | vee |
+| **voir** | to see | **je vois** | vwah |
+| **vouloir** | to want | **je veux** | vuh |
+
+**falloir** has no **je** form. Use **il faut**. Full conjugations are below.
+
 ## Être — to be
 
 **être** sounds like **eh-truh**.
@@ -197,6 +219,25 @@ The passé composé uses **être**: *Il est revenu; elle est revenue.*
 - **savoir** = know a fact or know how: *Je sais cuisiner.*
 - **connaître** = know or be familiar with a person/place: *Je connais Paris.*
 
+## Croire — to believe
+
+**croire** sounds like **krwahr**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **crois** | krwah |
+| tu | **crois** | krwah |
+| il / elle | **croit** | krwah |
+| nous | **croyons** | krwah-yohn |
+| vous | **croyez** | krwah-yay |
+| ils / elles | **croient** | krwah |
+
+- **Je crois que oui.** — I think so. / I believe so.
+- **Je te crois.** — I believe you.
+- **Tu crois que c’est vrai ?** — Do you believe it’s true?
+
+Past participle: **cru**. *J’ai cru* = “I believed / I thought.”
+
 ## Vouloir — to want
 
 **vouloir** sounds like **voo-lwahr**.
@@ -305,6 +346,31 @@ Key forms:
 
 - **J’ai dû partir.** — I had to leave.
 - **J’ai du pain.** — I have some bread.
+
+## Falloir — to be necessary
+
+**falloir** sounds like **fah-lwahr**. It is used only with **il**. There is no **je faut**.
+
+| Form | Sounds like | Meaning |
+| --- | --- | --- |
+| **il faut** | eel fo | it is necessary / you have to |
+| **il me faut** | eel muh fo | I need |
+| **il faut que** | eel fo kuh | it is necessary that |
+| **il faudra** | eel fo-drah | it will be necessary |
+| **il faudrait** | eel fo-dreh | it would be necessary / should |
+| **il a fallu** | eel ah fah-lü | it was necessary |
+
+- **Il faut partir.** — We have to leave.
+- **Il me faut un café.** — I need a coffee.
+- **Il me faut juste cinq minutes.** — I just need five minutes.
+- **Il faut que je parte.** — I have to leave.  
+  **il faut que** takes the subjunctive.
+
+Compare:
+
+- **J’ai besoin d’un café.** — I need a coffee.
+- **Il me faut un café.** — I need a coffee.
+- Wrong: *je faut*
 
 ## Partir — to leave
 
@@ -444,6 +510,32 @@ Past participle: **vu**. *J’ai vu* = “I saw / I have seen.”
 
 Unlike English, **regarder** and **écouter** take their object directly—do not add a word for “at” or “to.”
 
+## Tenir — to hold / to keep
+
+**tenir** sounds like **tuh-neer**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **tiens** | tyehn |
+| tu | **tiens** | tyehn |
+| il / elle | **tient** | tyehn |
+| nous | **tenons** | tuh-nohn |
+| vous | **tenez** | tuh-nay |
+| ils / elles | **tiennent** | tyehn |
+
+- **Je tiens le sac.** — I’m holding the bag.
+- **Tiens !** — Here! / Take this!
+- **Tenez.** — Here. Formal or plural.
+
+**tenir à** means to care about, or to insist on:
+
+- **Je tiens à toi.** — You matter to me.
+- **Je tiens à partir tôt.** — I insist on leaving early.
+
+Past participle: **tenu**. *J’ai tenu* = “I held / I have held.”
+
+**tiens** is a form of **tenir**. **le tien** means “yours” and is a different word.
+
 ## Vivre — to live / to experience
 
 **vivre** sounds like **vee-vruh**.
@@ -500,3 +592,28 @@ Past participle: **senti**. *J’ai senti* = “I felt / I smelled / I have felt
 
 - **Je me suis senti mieux.** — I felt better.  
   Reflexive, so passé composé uses **être**.
+
+## Manquer — to miss / to lack
+
+**manquer** sounds like **mahn-kay**. It is a regular **-er** verb.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **manque** | mahnk |
+| tu | **manques** | mahnk |
+| il / elle | **manque** | mahnk |
+| nous | **manquons** | mahn-kohn |
+| vous | **manquez** | mahn-kay |
+| ils / elles | **manquent** | mahnk |
+
+Two common patterns:
+
+- miss an event or object: **Je manque le train.** — I’m missing the train.
+- miss a person or place: the thing missed is the subject  
+  **L’Espagne me manque.** — I miss Spain.  
+  Literally: Spain is missing to me.
+
+- **Tu me manques.** — I miss you.
+- **Il me manque un stylo.** — I’m missing a pen. / I need a pen.
+
+Past participle: **manqué**. *J’ai manqué le train* = “I missed the train.”
