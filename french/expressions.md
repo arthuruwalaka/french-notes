@@ -154,6 +154,30 @@ Context determines the meaning of **temps**:
 - Quel **temps** fait-il ? — What is the weather like?
 - Le verbe change de **temps**. — The verb changes tense.
 
+**temps** is duration, weather, or tense. **fois** is a counted occurrence (once, twice, next time). There is no *il est fois*.
+
+- **Il est temps.** — It’s time. / The right moment has come.
+- **Il est l’heure.** — It’s time (by the clock).
+- **une fois / deux fois** — once / twice
+- **des fois** — sometimes
+- **la prochaine fois** — next time
+- **Il était une fois…** — Once upon a time…
+- **J’y suis allé deux fois.** — I went there twice.
+
+### Il est temps de vs à partir de
+
+After **il est temps**, use **de + infinitive**:
+
+- **Il est temps de partir.** — It’s time to leave.
+- **Il est temps de manger.** — It’s time to eat.
+- **Il est temps que tu dormes.** — It’s time you slept. (**que** + subjunctive)
+
+Do not mix this with **à partir de**, which means “starting from”:
+
+- **à partir de lundi** — starting Monday
+- **à partir de 8 h** — from 8 a.m. onward
+- **de partir** = to leave; **à partir de** = starting from
+
 ## Names and introductions
 
 - Quel est ton **nom** ? — What is your name/surname?

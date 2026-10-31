@@ -106,6 +106,24 @@ Write **j’ai**, never *je ai*.
 
 **aller + infinitive** forms the near future: *Il va pleuvoir* = “It is going to rain.”
 
+The passé composé uses **être**, not **avoir**:
+
+- **Je suis allé.** — I went. (not *J’ai allé*)
+- **Elle est allée.** — She went.
+
+**y** replaces **à + a place** already known, and sits before the auxiliary:
+
+- Je suis allé à Paris deux fois. → **J’y suis allé deux fois.** — I went there twice.
+- Word order: **Je + y + suis + allé**
+- **suis** here is the auxiliary (“have gone”), not present “I am going.”
+
+**y** vs **là / là-bas**:
+
+- **J’y vais.** / **J’y retourne.** — I’m going / going back there. (**y** before the verb)
+- **Je retourne là-bas.** — I’m going back over there.
+- **Il est là.** — He is there / here (present).
+- Wrong: *Je suis y*; *Je retourne y*
+
 ## Faire — to do / to make
 
 **faire** sounds like **fehr**. It does not mean “to take”; **prendre** means “to take.”
@@ -389,6 +407,11 @@ Compare:
 - Nous partons demain. — We are leaving tomorrow.
 
 The passé composé uses **être**: *Il est parti; elle est partie.*
+
+**à partir de** is not this verb. It means “starting from”:
+
+- **à partir de lundi** — starting Monday
+- **Il est temps de partir.** — It’s time to leave.
 
 ## Regular -er verbs — parler, aider, aimer, and donner
 

@@ -22,8 +22,11 @@
 - “They are at school” → **Elles sont à l’école**, not *Elles ont à l’école*
 - “We have a car” → **Nous avons une voiture**
 - “We go to Canada” → **Nous allons au Canada**
+- “I went” → **Je suis allé**, not *J’ai allé*
 - **faire** = to do/make
 - **prendre** = to take/have food or drink
+- **il est temps** = it’s time; there is no *il est fois*
+- **à partir de** = starting from; **de partir** = to leave
 
 ## Accents that change meaning
 
@@ -56,6 +59,7 @@
 - *Je vois le* → **Je le vois**
 - *Je aime* → **J’aime**
 - *Je te aime* → **Je t’aime**
+- *Je suis y / Je retourne y* → **J’y vais / J’y retourne**
 
 Use **toi** after a preposition or for emphasis: *pour toi; toi, je t’aime.*
 

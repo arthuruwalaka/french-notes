@@ -184,6 +184,13 @@ Common uses:
 - Reciprocal: **Ils se parlent.** — They talk to each other.
 - General/passive: **Ça se fait.** — People do that. / That is done.
 
+**se promener** vs **promener**:
+
+- **promener** = to walk someone/something: **Je promène le chien.** — I walk the dog.
+- **se promener** = to go for a walk: **Je me promène.** — I go for a walk.
+- **Je voulais me promener.** — I wanted to take a walk.
+- Without **me**, *je voulais promener* is incomplete (walk what?).
+
 In the passé composé, reflexive verbs use **être**:
 
 - **Elle s’est réveillée.** — She woke up.
@@ -214,6 +221,7 @@ In conversation, **on** is often more natural than **nous** for “we,” but **
 - Je vais à Paris. → J’**y** vais. — I am going there.
 - Nous sommes à l’école. → Nous **y** sommes. — We are there.
 - Je pense à mon examen. → J’**y** pense. — I am thinking about it.
+- Je suis allé à Paris deux fois. → **J’y suis allé deux fois.** — I went there twice.
 
 Do not normally use **y** for a person:
 
