@@ -23,6 +23,8 @@ An **auxiliary** is a helping verb. French uses **avoir** or **être** with a ma
 - J’**ai mangé**. — I ate.
   - **ai** = auxiliary; **mangé** = main verb’s past participle
 
+Most verbs take **avoir**. Movement verbs and reflexives take **être**. Full reminder under **Passé composé** below.
+
 **Être** also forms the passive voice:
 
 - Paul ferme la porte. — Paul closes the door.
@@ -335,11 +337,25 @@ Formation:
 
 **present tense of avoir or être + past participle**
 
-- J’**ai mangé**. — I ate / I have eaten.
-- J’**ai fait** la vaisselle. — I did the dishes.
-- Elle **est partie**. — She left / She has left.
+| Type | Auxiliary | Example |
+| --- | --- | --- |
+| most verbs | **avoir** | **J’ai mangé.** — I ate. |
+| movement / change of state | **être** | **Je suis allé.** — I went. |
+| reflexives | **être** | **Je me suis lavé.** — I washed myself. |
 
-Most verbs use **avoir**. Some movement verbs and reflexive verbs use **être**.
+- J’**ai vu**. — I saw.
+- J’**ai fait** la vaisselle. — I did the dishes.
+- Elle **est partie**. — She left.
+- **Ça s’est bien passé.** — It went well.
+
+Common **être** verbs (no **se** needed): **aller, arriver, partir, venir, entrer, sortir, monter, descendre, naître, mourir, rester, tomber, retourner, devenir, rentrer**.
+
+A few of those switch to **avoir** if there is a direct object:
+
+- **Je suis sorti.** — I went out.
+- **J’ai sorti la poubelle.** — I took the trash out.
+
+Default: if it is not reflexive and not one of those movement verbs, use **avoir**.
 
 With **être**, the past participle usually agrees with the subject:
 
