@@ -8,24 +8,25 @@ French present tense can express both a habit and an action happening now. For e
 
 | Infinitive | Meaning | Key form | Sounds like |
 | --- | --- | --- | --- |
-| **aller** | to go | **je vais** | veh |
-| **avoir** | to have | **j’ai** | jay |
-| **croire** | to believe | **je crois** | krwah |
-| **devoir** | to have to / must | **je dois** | dwah |
-| **dire** | to say / to tell | **je dis** | dee |
-| **être** | to be | **je suis** | swee |
-| **faire** | to do / to make | **je fais** | feh |
-| **falloir** | to be necessary | **il faut** | eel fo |
-| **manquer** | to miss / to lack | **je manque** | mahnk |
-| **pouvoir** | can / to be able to | **je peux** | puh |
-| **savoir** | to know a fact / how | **je sais** | seh |
-| **tenir** | to hold / to keep | **je tiens** | tyehn |
-| **vivre** | to live / to experience | **je vis** | vee |
-| **voir** | to see | **je vois** | vwah |
-| **vouloir** | to want | **je veux** | vuh |
+| [**aller**](#aller) | to go | **je vais** | veh |
+| [**avoir**](#avoir) | to have | **j’ai** | jay |
+| [**croire**](#croire) | to believe | **je crois** | krwah |
+| [**devoir**](#devoir) | to have to / must | **je dois** | dwah |
+| [**dire**](#dire) | to say / to tell | **je dis** | dee |
+| [**être**](#etre) | to be | **je suis** | swee |
+| [**faire**](#faire) | to do / to make | **je fais** | feh |
+| [**falloir**](#falloir) | to be necessary | **il faut** | eel fo |
+| [**manquer**](#manquer) | to miss / to lack | **je manque** | mahnk |
+| [**pouvoir**](#pouvoir) | can / to be able to | **je peux** | puh |
+| [**savoir**](#savoir) | to know a fact / how | **je sais** | seh |
+| [**tenir**](#tenir) | to hold / to keep | **je tiens** | tyehn |
+| [**vivre**](#vivre) | to live / to experience | **je vis** | vee |
+| [**voir**](#voir) | to see | **je vois** | vwah |
+| [**vouloir**](#vouloir) | to want | **je veux** | vuh |
 
 **falloir** has no **je** form. Use **il faut**. Full conjugations are below.
 
+<a id="etre"></a>
 ## Être — to be
 
 **être** sounds like **eh-truh**.
@@ -67,6 +68,7 @@ Key forms:
 - **était** — was/used to be (imperfect)
 - **été** — been (past participle): *j’ai été* — I was / I have been
 
+<a id="avoir"></a>
 ## Avoir — to have
 
 **avoir** sounds like **ah-vwahr**.
@@ -87,6 +89,7 @@ Use **avoir** for possession and age:
 
 Write **j’ai**, never *je ai*.
 
+<a id="aller"></a>
 ## Aller — to go
 
 **aller** sounds like **ah-lay**.
@@ -124,6 +127,7 @@ The passé composé uses **être**, not **avoir**:
 - **Il est là.** — He is there / here (present).
 - Wrong: *Je suis y*; *Je retourne y*
 
+<a id="faire"></a>
 ## Faire — to do / to make
 
 **faire** sounds like **fehr**. It does not mean “to take”; **prendre** means “to take.”
@@ -215,6 +219,7 @@ Commands:
 
 The passé composé uses **être**: *Il est revenu; elle est revenue.*
 
+<a id="savoir"></a>
 ## Savoir — to know
 
 **savoir** sounds like **sah-vwahr**. Use it for facts, information, and knowing how to do something.
@@ -237,6 +242,7 @@ The passé composé uses **être**: *Il est revenu; elle est revenue.*
 - **savoir** = know a fact or know how: *Je sais cuisiner.*
 - **connaître** = know or be familiar with a person/place: *Je connais Paris.*
 
+<a id="croire"></a>
 ## Croire — to believe
 
 **croire** sounds like **krwahr**.
@@ -256,6 +262,7 @@ The passé composé uses **être**: *Il est revenu; elle est revenue.*
 
 Past participle: **cru**. *J’ai cru* = “I believed / I thought.”
 
+<a id="vouloir"></a>
 ## Vouloir — to want
 
 **vouloir** sounds like **voo-lwahr**.
@@ -309,6 +316,7 @@ Important forms:
 
 Past participle: **bu**. *J’ai bu* = “I drank / I have drunk.”
 
+<a id="pouvoir"></a>
 ## Pouvoir — can / to be able to
 
 **pouvoir** sounds like **poo-vwahr**.
@@ -329,6 +337,7 @@ Use **pouvoir + infinitive**:
 
 Past participle: **pu**. *J’ai pu* = “I was able to / I managed to.”
 
+<a id="devoir"></a>
 ## Devoir — to have to / must
 
 **devoir** sounds like **duh-vwahr**. Use **devoir + infinitive**.
@@ -365,6 +374,7 @@ Key forms:
 - **J’ai dû partir.** — I had to leave.
 - **J’ai du pain.** — I have some bread.
 
+<a id="falloir"></a>
 ## Falloir — to be necessary
 
 **falloir** sounds like **fah-lwahr**. It is used only with **il**. There is no **je faut**.
@@ -483,6 +493,7 @@ Before a vowel or silent **h**, **je** shortens to **j’**: *j’aime; j’aide
 
 Past participle: **compris**. *J’ai compris* = “I understood / I have understood.”
 
+<a id="dire"></a>
 ## Dire — to say / to tell
 
 **dire** sounds like **deer**.
@@ -506,6 +517,7 @@ Past participle: **dit**. *J’ai dit* = “I said / I have said.”
 - Ça veut dire oui. — That means yes.
 - Qu’est-ce que ça veut dire ? — What does that mean?
 
+<a id="voir"></a>
 ## Voir — to see / to understand
 
 **voir** sounds like **vwahr**.
@@ -533,6 +545,7 @@ Past participle: **vu**. *J’ai vu* = “I saw / I have seen.”
 
 Unlike English, **regarder** and **écouter** take their object directly—do not add a word for “at” or “to.”
 
+<a id="tenir"></a>
 ## Tenir — to hold / to keep
 
 **tenir** sounds like **tuh-neer**.
@@ -559,6 +572,7 @@ Past participle: **tenu**. *J’ai tenu* = “I held / I have held.”
 
 **tiens** is a form of **tenir**. **le tien** means “yours” and is a different word.
 
+<a id="vivre"></a>
 ## Vivre — to live / to experience
 
 **vivre** sounds like **vee-vruh**.
@@ -616,6 +630,7 @@ Past participle: **senti**. *J’ai senti* = “I felt / I smelled / I have felt
 - **Je me suis senti mieux.** — I felt better.  
   Reflexive, so passé composé uses **être**.
 
+<a id="manquer"></a>
 ## Manquer — to miss / to lack
 
 **manquer** sounds like **mahn-kay**. It is a regular **-er** verb.
