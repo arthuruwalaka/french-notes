@@ -206,13 +206,23 @@ Affirmative commands put the pronoun after the verb, and **te → toi**:
 
 ## Subject pronoun on
 
-**on** always uses the **il/elle** verb form. It has two common meanings:
+**on** always uses the **il/elle** verb form, even when it means “we.” It never takes the **nous** ending **-ons**.
+
+| Meaning “we” | Verb form | Example |
+| --- | --- | --- |
+| **on** | **il/elle** | **On parle.** — We are speaking. |
+| **nous** | **-ons** | **Nous parlons.** — We are speaking. |
+
+Wrong: *on parlons*, *on voyons*, *on sommes*.
 
 1. Informal **we**:
    - **On y va.** — Let’s go / We’re going.
    - On mange. — We are eating.
+   - **On se voit demain.** — We’re meeting tomorrow.
 2. General **people/one/they/someone**:
    - **On dit que** c’est dangereux. — People say it is dangerous.
+
+**Allons-y** — Let’s go — is the **nous** command of **aller**, not **on**. The everyday equivalent is **On y va.**
 
 In conversation, **on** is often more natural than **nous** for “we,” but **nous** remains common in formal writing.
 
