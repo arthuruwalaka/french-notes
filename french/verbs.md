@@ -229,23 +229,22 @@ Commands:
 
 - Je viens de manger. — I just ate.
 
-### Revenir — to come back
+The passé composé uses **être**: *Il est venu; elle est venue.*
 
-**revenir** follows the same pattern as **venir**:
+### Same pattern as venir
 
-| Subject | Form |
-| --- | --- |
-| je | **reviens** |
-| tu | **reviens** |
-| il / elle | **revient** |
-| nous | **revenons** |
-| vous | **revenez** |
-| ils / elles | **reviennent** |
+These reuse **viens / vient / venons / venu**. Learn the meaning; do not memorize a new table.
 
-- Il revient demain. — He is coming back tomorrow.
-- Ça revient à 50 €. — That comes to €50.
+| Verb | Meaning | Example |
+| --- | --- | --- |
+| **devenir** | to become | **Je deviens bibliothécaire.** — I’m becoming a librarian. |
+| **revenir** | to come back | **Il revient demain.** — He is coming back tomorrow. |
+| **prévenir** | to warn / let know | **Préviens-le.** — Let him know. |
+| **se souvenir de** | to remember | **Je me souviens de toi.** — I remember you. |
+| **parvenir à** | to manage to / to reach | **Elle parvient à finir.** — She manages to finish. |
 
-The passé composé uses **être**: *Il est revenu; elle est revenue.*
+**devenir**, **revenir**, and **venir** use **être** in the passé composé: **Je suis devenu; il est revenu.**  
+**prévenir** uses **avoir**: **J’ai prévenu Nico.**
 
 <a id="savoir"></a>
 ## Savoir — to know
@@ -599,6 +598,8 @@ Unlike English, **regarder** and **écouter** take their object directly—do no
 Past participle: **tenu**. *J’ai tenu* = “I held / I have held.”
 
 **tiens** is a form of **tenir**. **le tien** means “yours” and is a different word.
+
+Same stem as **tenir** (**tiens / tient / tenu**), meanings only: **obtenir** to get; **retenir** to keep / remember; **appartenir à** to belong to; **soutenir** to support.
 
 <a id="vivre"></a>
 ## Vivre — to live / to experience
