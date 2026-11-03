@@ -17,6 +17,7 @@ French present tense can express both a habit and an action happening now. For e
 | [**faire**](#faire) | to do / to make | **je fais** | feh |
 | [**falloir**](#falloir) | to be necessary | **il faut** | eel fo |
 | [**manquer**](#manquer) | to miss / to lack | **je manque** | mahnk |
+| [**mettre**](#mettre) | to put / to put on | **je mets** | meh |
 | [**pouvoir**](#pouvoir) | can / to be able to | **je peux** | puh |
 | [**savoir**](#savoir) | to know a fact / how | **je sais** | seh |
 | [**tenir**](#tenir) | to hold / to keep | **je tiens** | tyehn |
@@ -177,6 +178,33 @@ Past participle: **fait**. *J’ai fait* = “I did / I have done.”
 - Je prends un café. — I’ll have a coffee.
 
 Past participle: **pris** (pree). *J’ai pris* = “I took / I have taken.”
+
+<a id="mettre"></a>
+## Mettre — to put / to put on
+
+**mettre** sounds like **meh-truh**.
+
+| Subject | Form | Sounds like |
+| --- | --- | --- |
+| je | **mets** | meh |
+| tu | **mets** | meh |
+| il / elle | **met** | meh |
+| nous | **mettons** | meh-tohn |
+| vous | **mettez** | meh-tay |
+| ils / elles | **mettent** | met |
+
+- **Je mets le livre ici.** — I am putting the book here.
+- **Elle met son manteau.** — She is putting on her coat.
+- **Mets ça ici.** — Put that here.
+
+The passé composé uses **avoir**. Past participle: **mis** (mee).
+
+- **J’ai mis le livre ici.** — I put the book here.
+- **Où as-tu mis mon livre ?** — Where did you put my book?
+
+**mets** is the present. **mis** is the past participle.
+
+**se mettre à** = to start doing: **Il se met à pleuvoir.** — It starts raining.
 
 ## Venir — to come
 
