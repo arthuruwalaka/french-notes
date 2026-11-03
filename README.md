@@ -10,7 +10,7 @@ Beginner review notes for working toward **NCLC 7**.
 | [Numbers](french/numbers.md) | 0–100+ with a 3-layer method, dates, age, and time |
 | [Essential verbs](french/verbs.md) | Conjugations, pronunciation, and important verb constructions |
 | [Grammar](french/grammar.md) | Pronouns, demonstratives, negation, partitives, auxiliaries, and past tenses |
-| [Useful expressions](french/expressions.md) | Question words, **si**, **ça va**, politeness, and conversation |
+| [Useful expressions](french/expressions.md) | Question words, **si**, **ça va**, politeness, and set phrases |
 | [Common mistakes](french/common-mistakes.md) | Personal spelling, agreement, and verb corrections |
 
 ## Current focus

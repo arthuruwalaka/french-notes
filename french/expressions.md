@@ -185,15 +185,59 @@ Do not mix this with **à partir de**, which means “starting from”:
 - Je **m’appelle** Arthur. — My name is Arthur.
 - Merci, **monsieur**. — Thank you, sir.
 
-## High-frequency useful expressions
+## Set phrases
 
-- **quelqu’un** — someone: *Quelqu’un t’aime.*
-- **Il s’agit de...** — It is about/concerning…
-- **De qui s’agit-il ?** — Who is it?
-- **Je veux découvrir de qui il s’agit.** — I want to find out who it is.
-- **J’ai besoin d’aide.** — I need help.
-- **Attention !** — Watch out! / Be careful!
-- **Malheureusement, je ne peux pas.** — Unfortunately, I cannot.
+Learn these as a chunk. Verb-shaped ones still live on [Essential verbs](verbs.md); a few are repeated here.
+
+### Time and starting
+
+| Phrase | Meaning | Example |
+| --- | --- | --- |
+| **à partir de** | starting from | **à partir de lundi** — starting Monday |
+| **il est temps de** + inf. | it’s time to | **Il est temps de partir.** — It’s time to leave. |
+| **il y a** + duration | ago | **il y a deux jours** — two days ago |
+| **venir de** + inf. | have just done | **Je viens de manger.** — I just ate. |
+| **être en train de** + inf. | be in the middle of | **Je suis en train de lire.** — I’m in the middle of reading. |
+| **se mettre à** + inf. | start doing | **Il se met à pleuvoir.** — It starts raining. |
+| **tout de suite** | right away | **Je l’appelle tout de suite.** — I’ll call him/her right away. |
+| **ça fait X que** | it has been X that | **Ça fait 4 ans que je vis ici.** — I’ve been living here for 4 years. |
+
+**à partir de** ≠ **de partir**. Full contrast under **Temps** above. **se mettre à** is also under [mettre](verbs.md#mettre).
+
+### Need and missing
+
+| Phrase | Meaning | Example |
+| --- | --- | --- |
+| **j’ai besoin de** | I need | **J’ai besoin d’un café.** — I need a coffee. |
+| **il me faut** | I need | **Il me faut un stylo.** — I need a pen. |
+| **il me manque** | I’m missing / I lack | **Il me manque un stylo.** — I’m missing a pen. |
+| **tu me manques** | I miss you | **Tu me manques.** — I miss you. |
+
+Full patterns under [falloir](verbs.md#falloir) and [manquer](verbs.md#manquer).
+
+### Everyday replies
+
+| Phrase | Meaning |
+| --- | --- |
+| **d’accord** | okay / agreed |
+| **entendu / c’est entendu** | understood / agreed |
+| **bien sûr** | of course |
+| **de rien** | you’re welcome |
+| **je vous en prie** | you’re welcome / after you |
+| **on y va** | let’s go / we’re going |
+| **Attention !** | watch out / be careful |
+| **quelqu’un** | someone |
+
+### About / what’s going on
+
+| Phrase | Meaning | Example |
+| --- | --- | --- |
+| **il s’agit de** | it is about | **Il s’agit de ton frère.** — It’s about your brother. |
+| **qu’est-ce que c’est** | what is that | **Qu’est-ce que c’est ?** — What is that? |
+| **qu’est-ce qui se passe** | what is happening | **Qu’est-ce qui se passe ?** — What’s happening? |
+| **ça se passe bien** | it’s going well | **Ça s’est bien passé.** — It went well. |
+| **penser à** | think about | **À quoi penses-tu ?** — What are you thinking about? |
+| **parler de** | talk about | **De quoi parles-tu ?** — What are you talking about? |
 
 ## Time words
 
