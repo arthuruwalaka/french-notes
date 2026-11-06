@@ -1,0 +1,91 @@
+# Common mistakes
+
+[← Study index](../README.md)
+
+## Articles and gender
+
+- *un voiture* → **une voiture**
+- *la école / le école* → **l’école**
+- **l’école** is feminine: **une école**
+
+## Verb spelling
+
+- *sui* → **suis**
+- *somme* → **sommes**
+- *sant* → **sont**
+- *avon* → **avons**
+- *etes* → **êtes**
+
+## Choosing the verb
+
+- “I have a cat” → **J’ai un chat**, not *Je suis un chat*
+- “They are at school” → **Elles sont à l’école**, not *Elles ont à l’école*
+- “We have a car” → **Nous avons une voiture**
+- “We go to Canada” → **Nous allons au Canada**
+- “I went” → **Je suis allé**, not *J’ai allé*
+- **faire** = to do/make
+- **prendre** = to take/have food or drink
+- **il est temps** = it’s time; there is no *il est fois*
+- **à partir de** = starting from; **de partir** = to leave
+
+## Accents that change meaning
+
+- **a** = has: *Elle a une voiture.*
+- **à** = to/at/in: *Elle va à Paris.*
+- **ou** = or
+- **où** = where
+- **ça** = it/that, not *ca*
+- **très** = very, not *tre*
+
+## Similar-sounding words
+
+- **ce** = this/that before a noun: **ce livre**
+- **ça** = this/that/it by itself: **Je veux ça**
+- **sa** = his/her/its before a feminine noun: **sa voiture**
+- **c’est** = it/this/that is: **C’est bon**
+- **ou** = or; **où** = where
+- **ton/ta/tes** = your; **avec** = with
+- **voudrais** = would like; **voudrai** = will want
+
+## Natural questions
+
+- “Who is that?” → **Qui est-ce ?** or informal **C’est qui ?**
+- “What is that?” → **Qu’est-ce que c’est ?**
+- **-t-** in *arrive-t-il ?* is only for pronunciation; it has no meaning.
+
+## Object-pronoun placement
+
+- *J’aime toi* → **Je t’aime**
+- *Je vois le* → **Je le vois**
+- *Je aime* → **J’aime**
+- *Je te aime* → **Je t’aime**
+- *Je suis y / Je retourne y* → **J’y vais / J’y retourne**
+
+Use **toi** after a preposition or for emphasis: *pour toi; toi, je t’aime.*
+
+Positive commands are an exception: **Donne-moi ça.**
+
+## Prepositions
+
+- *à Canada* → **au Canada**
+- *à train* → **en train**
+- *en deux heures* means it takes two hours
+- **dans deux heures** means two hours from now
+- *au États-Unis* → **aux États-Unis**
+
+## Faire patterns
+
+- **il fait froid** — it is cold (weather)
+- **ça fait rire** — that makes people laugh
+- **ça a fait enrager** — that made someone furious
+
+Translate the complete pattern; **fait** does not always map to one English word.
+
+## Agreement and plural
+
+- *deux chat* → **deux chats**
+- *heuresuses* → **heureuses**
+- **prêt** for masculine; **prête** for feminine
+- *quatre-vingt* alone for 80 → **quatre-vingts**
+- *quatre-vingts-un* → **quatre-vingt-un**
+- *un cent* → **cent**; *un mille* → **mille**
