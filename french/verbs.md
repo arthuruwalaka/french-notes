@@ -6,26 +6,28 @@ French present tense can express both a habit and an action happening now. For e
 
 ## Core verb table
 
-| Infinitive | Meaning | Key form | Sounds like |
-| --- | --- | --- | --- |
-| [**aller**](#aller) | to go | **je vais** | veh |
-| [**avoir**](#avoir) | to have | **j’ai** | jay |
-| [**croire**](#croire) | to believe | **je crois** | krwah |
-| [**devoir**](#devoir) | to have to / must | **je dois** | dwah |
-| [**dire**](#dire) | to say / to tell | **je dis** | dee |
-| [**être**](#etre) | to be | **je suis** | swee |
-| [**faire**](#faire) | to do / to make | **je fais** | feh |
-| [**falloir**](#falloir) | to be necessary | **il faut** | eel fo |
-| [**manquer**](#manquer) | to miss / to lack | **je manque** | mahnk |
-| [**mettre**](#mettre) | to put / to put on | **je mets** | meh |
-| [**pouvoir**](#pouvoir) | can / to be able to | **je peux** | puh |
-| [**savoir**](#savoir) | to know a fact / how | **je sais** | seh |
-| [**tenir**](#tenir) | to hold / to keep | **je tiens** | tyehn |
-| [**vivre**](#vivre) | to live / to experience | **je vis** | vee |
-| [**voir**](#voir) | to see | **je vois** | vwah |
-| [**vouloir**](#vouloir) | to want | **je veux** | vuh |
+| Infinitive | Meaning | Key form | Sounds like | Past participle |
+| --- | --- | --- | --- | --- |
+| [**aller**](#aller) | to go | **je vais** | veh | **allé** (être) |
+| [**avoir**](#avoir) | to have | **j’ai** | jay | **eu** |
+| [**croire**](#croire) | to believe | **je crois** | krwah | **cru** |
+| [**devoir**](#devoir) | to have to / must | **je dois** | dwah | **dû** |
+| [**dire**](#dire) | to say / to tell | **je dis** | dee | **dit** |
+| [**être**](#etre) | to be | **je suis** | swee | **été** |
+| [**faire**](#faire) | to do / to make | **je fais** | feh | **fait** |
+| [**falloir**](#falloir) | to be necessary | **il faut** | eel fo | **fallu** |
+| [**manquer**](#manquer) | to miss / to lack | **je manque** | mahnk | **manqué** |
+| [**mettre**](#mettre) | to put / to put on | **je mets** | meh | **mis** |
+| [**pouvoir**](#pouvoir) | can / to be able to | **je peux** | puh | **pu** |
+| [**savoir**](#savoir) | to know a fact / how | **je sais** | seh | **su** |
+| [**tenir**](#tenir) | to hold / to keep | **je tiens** | tyehn | **tenu** |
+| [**vivre**](#vivre) | to live / to experience | **je vis** | vee | **vécu** |
+| [**voir**](#voir) | to see | **je vois** | vwah | **vu** |
+| [**vouloir**](#vouloir) | to want | **je veux** | vuh | **voulu** |
 
 **falloir** has no **je** form. Use **il faut**. Full conjugations are below.
+
+With **être**, the participle agrees with the subject: **allé, allée, allés, allées**. With **avoir**, it usually stays the same: **j’ai vu; elle a vu.**
 
 <a id="etre"></a>
 ## Être — to be
@@ -40,6 +42,8 @@ French present tense can express both a habit and an action happening now. For e
 | nous | **sommes** | sum |
 | vous | **êtes** | et |
 | ils / elles | **sont** | sohn (nasal) |
+
+Past participle: **été**. *J’ai été* — I was / I have been.
 
 Use **être** for identity, description, and location:
 
@@ -83,6 +87,8 @@ Key forms:
 | vous | **avez** | ah-vay |
 | ils / elles | **ont** | ohn (nasal) |
 
+Past participle: **eu** (u). *J’ai eu* — I had / I have had.
+
 Use **avoir** for possession and age:
 
 - J’ai un chat.
@@ -103,6 +109,8 @@ Write **j’ai**, never *je ai*.
 | nous | **allons** | ah-lohn |
 | vous | **allez** | ah-lay |
 | ils / elles | **vont** | vohn (nasal) |
+
+Past participle: **allé / allée / allés / allées**. *Je suis allé; elle est allée.* — I went; she went.
 
 - Je vais à l’école.
 - Elle va à la maison.
@@ -142,6 +150,8 @@ The passé composé uses **être**, not **avoir**:
 | vous | **faites** | fet |
 | ils / elles | **font** | fohn (nasal) |
 
+Past participle: **fait**. *J’ai fait* — I did / I have done.
+
 - Je fais la vaisselle. — I do / I am doing the dishes.
 - Il fait un gâteau. — He makes / is making a cake.
 - Il fait beau. — The weather is nice.
@@ -159,8 +169,6 @@ Recognize the whole pattern:
 - Il écoute de la musique **en faisant** la vaisselle.
 - Not: *Je faisant*
 
-Past participle: **fait**. *J’ai fait* = “I did / I have done.”
-
 ## Prendre — to take / to have
 
 **prendre** sounds like **prahn-druh**.
@@ -174,10 +182,10 @@ Past participle: **fait**. *J’ai fait* = “I did / I have done.”
 | vous | **prenez** | pruh-nay |
 | ils / elles | **prennent** | pren |
 
+Past participle: **pris** (pree). *J’ai pris* — I took / I have taken.
+
 - Je prends le bus. — I take the bus.
 - Je prends un café. — I’ll have a coffee.
-
-Past participle: **pris** (pree). *J’ai pris* = “I took / I have taken.”
 
 <a id="mettre"></a>
 ## Mettre — to put / to put on
@@ -193,11 +201,11 @@ Past participle: **pris** (pree). *J’ai pris* = “I took / I have taken.”
 | vous | **mettez** | meh-tay |
 | ils / elles | **mettent** | met |
 
+Past participle: **mis** (mee). *J’ai mis* — I put / I have put.
+
 - **Je mets le livre ici.** — I am putting the book here.
 - **Elle met son manteau.** — She is putting on her coat.
 - **Mets ça ici.** — Put that here.
-
-The passé composé uses **avoir**. Past participle: **mis** (mee).
 
 - **J’ai mis le livre ici.** — I put the book here.
 - **Où as-tu mis mon livre ?** — Where did you put my book?
@@ -219,6 +227,8 @@ The passé composé uses **avoir**. Past participle: **mis** (mee).
 | vous | **venez** | vuh-nay |
 | ils / elles | **viennent** | vyen |
 
+Past participle: **venu / venue**. *Il est venu; elle est venue.* — He came; she came.
+
 Commands:
 
 - **Viens !** — one person, informal
@@ -229,22 +239,19 @@ Commands:
 
 - Je viens de manger. — I just ate.
 
-The passé composé uses **être**: *Il est venu; elle est venue.*
-
 ### Same pattern as venir
 
 These reuse **viens / vient / venons / venu**. Learn the meaning; do not memorize a new table.
 
-| Verb | Meaning | Example |
-| --- | --- | --- |
-| **devenir** | to become | **Je deviens bibliothécaire.** — I’m becoming a librarian. |
-| **revenir** | to come back | **Il revient demain.** — He is coming back tomorrow. |
-| **prévenir** | to warn / let know | **Préviens-le.** — Let him know. |
-| **se souvenir de** | to remember | **Je me souviens de toi.** — I remember you. |
-| **parvenir à** | to manage to / to reach | **Elle parvient à finir.** — She manages to finish. |
+| Verb | Meaning | Past participle | Example |
+| --- | --- | --- | --- |
+| **devenir** | to become | **devenu** (être) | **Je suis devenu bibliothécaire.** — I became a librarian. |
+| **revenir** | to come back | **revenu** (être) | **Il est revenu.** — He came back. |
+| **prévenir** | to warn / let know | **prévenu** | **J’ai prévenu Nico.** — I let Nico know. |
+| **se souvenir de** | to remember | **souvenu** (être) | **Je me suis souvenu de toi.** — I remembered you. |
+| **parvenir à** | to manage to / to reach | **parvenu** (être) | **Elle est parvenue à finir.** — She managed to finish. |
 
-**devenir**, **revenir**, and **venir** use **être** in the passé composé: **Je suis devenu; il est revenu.**  
-**prévenir** uses **avoir**: **J’ai prévenu Nico.**
+**venir**, **devenir**, **revenir**, and **parvenir** use **être**. **prévenir** uses **avoir**.
 
 <a id="savoir"></a>
 ## Savoir — to know
@@ -259,6 +266,8 @@ These reuse **viens / vient / venons / venu**. Learn the meaning; do not memoriz
 | nous | **savons** | sah-vohn |
 | vous | **savez** | sah-vay |
 | ils / elles | **savent** | sahv |
+
+Past participle: **su**. *J’ai su* — I knew / I found out.
 
 - Je sais. — I know.
 - Je sais cuisiner. — I know how to cook.
@@ -283,11 +292,11 @@ These reuse **viens / vient / venons / venu**. Learn the meaning; do not memoriz
 | vous | **croyez** | krwah-yay |
 | ils / elles | **croient** | krwah |
 
+Past participle: **cru**. *J’ai cru* — I believed / I thought.
+
 - **Je crois que oui.** — I think so. / I believe so.
 - **Je te crois.** — I believe you.
 - **Tu crois que c’est vrai ?** — Do you believe it’s true?
-
-Past participle: **cru**. *J’ai cru* = “I believed / I thought.”
 
 <a id="vouloir"></a>
 ## Vouloir — to want
@@ -302,6 +311,8 @@ Past participle: **cru**. *J’ai cru* = “I believed / I thought.”
 | nous | **voulons** | voo-lohn |
 | vous | **voulez** | voo-lay |
 | ils / elles | **veulent** | vuhl |
+
+Past participle: **voulu**. *J’ai voulu* — I wanted / I have wanted.
 
 Use **vouloir + noun** or **vouloir + infinitive**:
 
@@ -318,12 +329,7 @@ Compare:
 - **je veux** — I want
 - **je voudrais** — I would like (conditional/polite)
 - **je voudrai** — I will want (future)
-
-Important forms:
-
-- **voulu** — wanted (past participle)
 - **j’ai voulu** — I wanted / I have wanted
-- **je voudrai** — I will want
 
 ## Boire — to drink
 
@@ -338,10 +344,10 @@ Important forms:
 | vous | **buvez** | bew-vay |
 | ils / elles | **boivent** | bwahv |
 
+Past participle: **bu**. *J’ai bu* — I drank / I have drunk.
+
 - Je bois de l’eau. — I drink / I am drinking water.
 - Tu bois du café. — You drink / are drinking coffee.
-
-Past participle: **bu**. *J’ai bu* = “I drank / I have drunk.”
 
 <a id="pouvoir"></a>
 ## Pouvoir — can / to be able to
@@ -357,12 +363,12 @@ Past participle: **bu**. *J’ai bu* = “I drank / I have drunk.”
 | vous | **pouvez** | poo-vay |
 | ils / elles | **peuvent** | puhv |
 
+Past participle: **pu**. *J’ai pu* — I was able to / I managed to.
+
 Use **pouvoir + infinitive**:
 
 - Je peux venir. — I can come.
 - Pouvez-vous m’aider ? — Can you help me?
-
-Past participle: **pu**. *J’ai pu* = “I was able to / I managed to.”
 
 <a id="devoir"></a>
 ## Devoir — to have to / must
@@ -377,6 +383,8 @@ Past participle: **pu**. *J’ai pu* = “I was able to / I managed to.”
 | nous | **devons** | duh-vohn |
 | vous | **devez** | duh-vay |
 | ils / elles | **doivent** | dwahv |
+
+Past participle: **dû**. *J’ai dû partir* — I had to leave.
 
 - **Je dois partir.** — I have to leave.
 - **Tu dois prévenir Nico.** — You have to let Nico know.
@@ -415,6 +423,8 @@ Key forms:
 | **il faudrait** | eel fo-dreh | it would be necessary / should |
 | **il a fallu** | eel ah fah-lü | it was necessary |
 
+Past participle: **fallu**. *Il a fallu* — it was necessary.
+
 - **Il faut partir.** — We have to leave.
 - **Il me faut un café.** — I need a coffee.
 - **Il me faut juste cinq minutes.** — I just need five minutes.
@@ -440,10 +450,10 @@ Compare:
 | vous | **partez** | par-tay |
 | ils / elles | **partent** | part |
 
+Past participle: **parti / partie**. *Il est parti; elle est partie.* — He left; she left.
+
 - Il part maintenant. — He is leaving now.
 - Nous partons demain. — We are leaving tomorrow.
-
-The passé composé uses **être**: *Il est parti; elle est partie.*
 
 **à partir de** is not this verb. It means “starting from”:
 
@@ -462,6 +472,8 @@ Most French verbs follow the **-er** pattern. Remove **-er**, then add:
 | nous | **-ons** | nous parlons | nous aidons |
 | vous | **-ez** | vous parlez | vous aidez |
 | ils / elles | **-ent** | ils parlent | elles aident |
+
+Past participle: drop **-er**, add **-é**. **parlé, aidé, aimé, donné, mangé**. *J’ai parlé* — I spoke.
 
 The endings **-e, -es,** and **-ent** are normally silent.
 
@@ -499,6 +511,8 @@ Before a vowel or silent **h**, **je** shortens to **j’**: *j’aime; j’aide
 | vous | **vous appelez** |
 | ils / elles | **ils appellent** |
 
+Past participle: **appelé**. *J’ai appelé* — I called.
+
 - Je l’appelle tout de suite. — I’ll call him/her right away.
 - Je m’appelle Arthur. — My name is Arthur. (literally: I call myself Arthur)
 
@@ -515,10 +529,10 @@ Before a vowel or silent **h**, **je** shortens to **j’**: *j’aime; j’aide
 | vous | **comprenez** | kohm-pruh-nay |
 | ils / elles | **comprennent** | kohm-pren |
 
+Past participle: **compris**. *J’ai compris* — I understood / I have understood.
+
 - Je comprends. — I understand.
 - Le forfait comprend trois cours. — The package includes three lessons.
-
-Past participle: **compris**. *J’ai compris* = “I understood / I have understood.”
 
 <a id="dire"></a>
 ## Dire — to say / to tell
@@ -534,10 +548,10 @@ Past participle: **compris**. *J’ai compris* = “I understood / I have unders
 | vous | **dites** | deet |
 | ils / elles | **disent** | deez |
 
+Past participle: **dit**. *J’ai dit* — I said / I have said.
+
 - Je dis bonjour. — I say hello.
 - Il dit que oui. — He says yes.
-
-Past participle: **dit**. *J’ai dit* = “I said / I have said.”
 
 **vouloir dire** means “to mean”:
 
@@ -558,11 +572,11 @@ Past participle: **dit**. *J’ai dit* = “I said / I have said.”
 | vous | **voyez** | vwah-yay |
 | ils / elles | **voient** | vwah |
 
+Past participle: **vu**. *J’ai vu* — I saw / I have seen.
+
 - Je vois un oiseau. — I see a bird.
 - Je vois le médecin demain. — I am seeing the doctor tomorrow.
 - Je vois. — I see / I understand.
-
-Past participle: **vu**. *J’ai vu* = “I saw / I have seen.”
 
 ### Voir, regarder, and écouter
 
@@ -586,6 +600,8 @@ Unlike English, **regarder** and **écouter** take their object directly—do no
 | vous | **tenez** | tuh-nay |
 | ils / elles | **tiennent** | tyehn |
 
+Past participle: **tenu**. *J’ai tenu* — I held / I have held.
+
 - **Je tiens le sac.** — I’m holding the bag.
 - **Tiens !** — Here! / Take this!
 - **Tenez.** — Here. Formal or plural.
@@ -594,8 +610,6 @@ Unlike English, **regarder** and **écouter** take their object directly—do no
 
 - **Je tiens à toi.** — You matter to me.
 - **Je tiens à partir tôt.** — I insist on leaving early.
-
-Past participle: **tenu**. *J’ai tenu* = “I held / I have held.”
 
 **tiens** is a form of **tenir**. **le tien** means “yours” and is a different word.
 
@@ -615,15 +629,12 @@ Same stem as **tenir** (**tiens / tient / tenu**), meanings only: **obtenir** to
 | vous | **vivez** | vee-vay |
 | ils / elles | **vivent** | veev |
 
+Past participle: **vécu** (vay-kü). *J’ai vécu* — I lived / I have lived.
+
 Two common uses:
 
 - to live somewhere: **Nous vivons à Paris.** — We live in Paris.
 - to experience / live through: **Nous avons vécu une guerre.** — We lived through a war.
-
-Past participle: **vécu** (vay-kü). The passé composé uses **avoir**:
-
-- **J’ai vécu.** — I lived / I have lived.
-- **J’ai vécu une belle journée.** — I had a wonderful day.
 
 Compare:
 
@@ -643,6 +654,8 @@ Compare:
 | vous | **sentez** | sahn-tay |
 | ils / elles | **sentent** | sahnt |
 
+Past participle: **senti**. *J’ai senti* — I felt / I smelled. *Je me suis senti mieux* — I felt better. (**se sentir** uses **être**.)
+
 Two common uses:
 
 - to smell: **Je sens le café.** — I smell the coffee.
@@ -653,11 +666,6 @@ For how you feel physically or emotionally, use **se sentir**:
 - **Je me sens fatigué.** — I feel tired.
 - **Tu te sens bien ?** — Do you feel well?
 - **Il se sent mal.** — He feels bad / unwell.
-
-Past participle: **senti**. *J’ai senti* = “I felt / I smelled / I have felt.”
-
-- **Je me suis senti mieux.** — I felt better.  
-  Reflexive, so passé composé uses **être**.
 
 <a id="manquer"></a>
 ## Manquer — to miss / to lack
@@ -673,6 +681,8 @@ Past participle: **senti**. *J’ai senti* = “I felt / I smelled / I have felt
 | vous | **manquez** | mahn-kay |
 | ils / elles | **manquent** | mahnk |
 
+Past participle: **manqué**. *J’ai manqué le train* — I missed the train.
+
 Two common patterns:
 
 - miss an event or object: **Je manque le train.** — I’m missing the train.
@@ -682,5 +692,3 @@ Two common patterns:
 
 - **Tu me manques.** — I miss you.
 - **Il me manque un stylo.** — I’m missing a pen. / I need a pen.
-
-Past participle: **manqué**. *J’ai manqué le train* = “I missed the train.”
