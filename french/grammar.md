@@ -367,10 +367,9 @@ A few of those switch to **avoir** if there is a direct object:
 
 Default: if it is not reflexive and not one of those movement verbs, use **avoir**.
 
-With **être**, the past participle usually agrees with the subject:
+With **être**, the past participle agrees with the subject: **parti, partie, partis, parties**.
 
-- Il est parti.
-- Elle est partie.
+With **avoir**, it agrees only when a direct object is already before the verb: **vu, vue, vus, vues**. Otherwise it stays unchanged.
 
 ## Passé simple — literary past
 

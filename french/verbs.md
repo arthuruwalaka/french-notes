@@ -8,10 +8,10 @@ French present tense can express both a habit and an action happening now. For e
 
 | Infinitive | Meaning | Key form | Sounds like | Past participle |
 | --- | --- | --- | --- | --- |
-| [**aller**](#aller) | to go | **je vais** | veh | **allé** (être) |
+| [**aller**](#aller) | to go | **je vais** | veh | **allé(e)(s)** (être) |
 | [**avoir**](#avoir) | to have | **j’ai** | jay | **eu** |
 | [**croire**](#croire) | to believe | **je crois** | krwah | **cru** |
-| [**devoir**](#devoir) | to have to / must | **je dois** | dwah | **dû** |
+| [**devoir**](#devoir) | to have to / must | **je dois** | dwah | **dû / due** |
 | [**dire**](#dire) | to say / to tell | **je dis** | dee | **dit** |
 | [**être**](#etre) | to be | **je suis** | swee | **été** |
 | [**faire**](#faire) | to do / to make | **je fais** | feh | **fait** |
@@ -22,12 +22,12 @@ French present tense can express both a habit and an action happening now. For e
 | [**savoir**](#savoir) | to know a fact / how | **je sais** | seh | **su** |
 | [**tenir**](#tenir) | to hold / to keep | **je tiens** | tyehn | **tenu** |
 | [**vivre**](#vivre) | to live / to experience | **je vis** | vee | **vécu** |
-| [**voir**](#voir) | to see | **je vois** | vwah | **vu** |
+| [**voir**](#voir) | to see | **je vois** | vwah | **vu(e)(s)** |
 | [**vouloir**](#vouloir) | to want | **je veux** | vuh | **voulu** |
 
 **falloir** has no **je** form. Use **il faut**. Full conjugations are below.
 
-With **être**, the participle agrees with the subject: **allé, allée, allés, allées**. With **avoir**, it usually stays the same: **j’ai vu; elle a vu.**
+With **être**, agree with the subject: **allé, allée, allés, allées**. With **avoir**, agree only when a direct object is already before the verb: **vu, vue, vus, vues**. Otherwise it stays **vu**. **dû** becomes **due**.
 
 <a id="etre"></a>
 ## Être — to be
@@ -110,7 +110,7 @@ Write **j’ai**, never *je ai*.
 | vous | **allez** | ah-lay |
 | ils / elles | **vont** | vohn (nasal) |
 
-Past participle: **allé / allée / allés / allées**. *Je suis allé; elle est allée.* — I went; she went.
+Past participle: **allé, allée, allés, allées**.
 
 - Je vais à l’école.
 - Elle va à la maison.
@@ -227,7 +227,7 @@ Past participle: **mis** (mee). *J’ai mis* — I put / I have put.
 | vous | **venez** | vuh-nay |
 | ils / elles | **viennent** | vyen |
 
-Past participle: **venu / venue**. *Il est venu; elle est venue.* — He came; she came.
+Past participle: **venu, venue, venus, venues**.
 
 Commands:
 
@@ -245,11 +245,11 @@ These reuse **viens / vient / venons / venu**. Learn the meaning; do not memoriz
 
 | Verb | Meaning | Past participle | Example |
 | --- | --- | --- | --- |
-| **devenir** | to become | **devenu** (être) | **Je suis devenu bibliothécaire.** — I became a librarian. |
-| **revenir** | to come back | **revenu** (être) | **Il est revenu.** — He came back. |
-| **prévenir** | to warn / let know | **prévenu** | **J’ai prévenu Nico.** — I let Nico know. |
-| **se souvenir de** | to remember | **souvenu** (être) | **Je me suis souvenu de toi.** — I remembered you. |
-| **parvenir à** | to manage to / to reach | **parvenu** (être) | **Elle est parvenue à finir.** — She managed to finish. |
+| **devenir** | to become | **devenu(e)(s)** (être) | **Je suis devenu bibliothécaire.** — I became a librarian. |
+| **revenir** | to come back | **revenu(e)(s)** (être) | **Il est revenu.** — He came back. |
+| **prévenir** | to warn / let know | **prévenu(e)(s)** | **J’ai prévenu Nico.** — I let Nico know. |
+| **se souvenir de** | to remember | **souvenu(e)(s)** (être) | **Je me suis souvenu de toi.** — I remembered you. |
+| **parvenir à** | to manage to / to reach | **parvenu(e)(s)** (être) | **Elle est parvenue à finir.** — She managed to finish. |
 
 **venir**, **devenir**, **revenir**, and **parvenir** use **être**. **prévenir** uses **avoir**.
 
@@ -384,7 +384,7 @@ Use **pouvoir + infinitive**:
 | vous | **devez** | duh-vay |
 | ils / elles | **doivent** | dwahv |
 
-Past participle: **dû**. *J’ai dû partir* — I had to leave.
+Past participle: **dû**, feminine **due**. *J’ai dû partir* — I had to leave.
 
 - **Je dois partir.** — I have to leave.
 - **Tu dois prévenir Nico.** — You have to let Nico know.
@@ -450,7 +450,7 @@ Compare:
 | vous | **partez** | par-tay |
 | ils / elles | **partent** | part |
 
-Past participle: **parti / partie**. *Il est parti; elle est partie.* — He left; she left.
+Past participle: **parti, partie, partis, parties**.
 
 - Il part maintenant. — He is leaving now.
 - Nous partons demain. — We are leaving tomorrow.
@@ -572,7 +572,7 @@ Past participle: **dit**. *J’ai dit* — I said / I have said.
 | vous | **voyez** | vwah-yay |
 | ils / elles | **voient** | vwah |
 
-Past participle: **vu**. *J’ai vu* — I saw / I have seen.
+Past participle: **vu, vue, vus, vues**. It changes only when the object is already before the verb: *Je l’ai vue.* — I saw her.
 
 - Je vois un oiseau. — I see a bird.
 - Je vois le médecin demain. — I am seeing the doctor tomorrow.
@@ -654,7 +654,7 @@ Compare:
 | vous | **sentez** | sahn-tay |
 | ils / elles | **sentent** | sahnt |
 
-Past participle: **senti**. *J’ai senti* — I felt / I smelled. *Je me suis senti mieux* — I felt better. (**se sentir** uses **être**.)
+Past participle: **senti, sentie, sentis, senties**. **se sentir** uses **être**: *Je me suis senti mieux* — I felt better.
 
 Two common uses:
 
