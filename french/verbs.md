@@ -58,7 +58,7 @@ Use the infinitive after another verb: *Je veux **être** médecin.* — I want 
 Imperfect — **was / used to be**:
 
 | Subject | Form | Sounds like | Meaning |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | je | **j’étais** | zhay-teh | I was |
 | tu | **tu étais** | too ay-teh | you were |
 | il / elle / on | **était** | ay-teh | he/she/one was |
