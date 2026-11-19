@@ -6,28 +6,28 @@ French present tense can express both a habit and an action happening now. For e
 
 ## Core verb table
 
-| Infinitive | Meaning | Key form | Sounds like | Past participle |
-| --- | --- | --- | --- | --- |
-| [**aller**](#aller) | to go | **je vais** | veh | **allé(e)(s)** (être) |
-| [**avoir**](#avoir) | to have | **j’ai** | jay | **eu** |
-| [**croire**](#croire) | to believe | **je crois** | krwah | **cru** |
-| [**devoir**](#devoir) | to have to / must | **je dois** | dwah | **dû / due** |
-| [**dire**](#dire) | to say / to tell | **je dis** | dee | **dit** |
-| [**être**](#etre) | to be | **je suis** | swee | **été** |
-| [**faire**](#faire) | to do / to make | **je fais** | feh | **fait** |
-| [**falloir**](#falloir) | to be necessary | **il faut** | eel fo | **fallu** |
-| [**manquer**](#manquer) | to miss / to lack | **je manque** | mahnk | **manqué** |
-| [**mettre**](#mettre) | to put / to put on | **je mets** | meh | **mis** |
-| [**pouvoir**](#pouvoir) | can / to be able to | **je peux** | puh | **pu** |
-| [**savoir**](#savoir) | to know a fact / how | **je sais** | seh | **su** |
-| [**tenir**](#tenir) | to hold / to keep | **je tiens** | tyehn | **tenu** |
-| [**vivre**](#vivre) | to live / to experience | **je vis** | vee | **vécu** |
-| [**voir**](#voir) | to see | **je vois** | vwah | **vu(e)(s)** |
-| [**vouloir**](#vouloir) | to want | **je veux** | vuh | **voulu** |
+| Infinitive | Meaning | Present | Key form | Sounds like | Past participle |
+| --- | --- | --- | --- | --- | --- |
+| [**aller**](#aller) | to go | irregular | **je vais** | veh | **allé(e)(s)** (être) |
+| [**avoir**](#avoir) | to have | irregular | **j’ai** | jay | **eu** |
+| [**croire**](#croire) | to believe | irregular | **je crois** | krwah | **cru** |
+| [**devoir**](#devoir) | to have to / must | irregular | **je dois** | dwah | **dû / due** |
+| [**dire**](#dire) | to say / to tell | irregular | **je dis** | dee | **dit** |
+| [**être**](#etre) | to be | irregular | **je suis** | swee | **été** |
+| [**faire**](#faire) | to do / to make | irregular | **je fais** | feh | **fait** |
+| [**falloir**](#falloir) | to be necessary | irregular | **il faut** | eel fo | **fallu** |
+| [**manquer**](#manquer) | to miss / to lack | regular | **je manque** | mahnk | **manqué** |
+| [**mettre**](#mettre) | to put / to put on | irregular | **je mets** | meh | **mis** |
+| [**pouvoir**](#pouvoir) | can / to be able to | irregular | **je peux** | puh | **pu** |
+| [**savoir**](#savoir) | to know a fact / how | irregular | **je sais** | seh | **su** |
+| [**tenir**](#tenir) | to hold / to keep | irregular | **je tiens** | tyehn | **tenu** |
+| [**vivre**](#vivre) | to live / to experience | irregular | **je vis** | vee | **vécu** |
+| [**voir**](#voir) | to see | irregular | **je vois** | vwah | **vu(e)(s)** |
+| [**vouloir**](#vouloir) | to want | irregular | **je veux** | vuh | **voulu** |
 
 **falloir** has no **je** form. Use **il faut**. Full conjugations are below.
 
-Regular present-tense patterns: [**-er**](#regular-er), [**-ir**](#regular-ir), [**-re**](#regular-re).
+A present is **regular** in two cases only: an **-er** verb, except **aller**, or an **-ir** verb that adds **-iss-**, like [**finir**](#regular-ir). Every other present below is **irregular**. [**Parler**](#regular-er) is the regular **-er** model. [**Attendre**](#regular-re) is irregular, and other **-dre** verbs copy it.
 
 With **être**, agree with the subject: **allé, allée, allés, allées**. With **avoir**, agree only when a direct object is already before the verb: **vu, vue, vus, vues**. Otherwise it stays **vu**. **dû** becomes **due**.
 
@@ -35,6 +35,8 @@ With **être**, agree with the subject: **allé, allée, allés, allées**. With
 ## Être — to be
 
 **être** sounds like **eh-truh**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -80,6 +82,8 @@ Key forms:
 
 **avoir** sounds like **ah-vwahr**.
 
+**Present: irregular.**
+
 | Subject | Form | Sounds like |
 | --- | --- | --- |
 | je | **ai → j’ai** | jay |
@@ -101,7 +105,9 @@ Write **j’ai**, never *je ai*.
 <a id="aller"></a>
 ## Aller — to go
 
-**aller** sounds like **ah-lay**.
+**aller** sounds like **ah-lay**. It ends in **-er**, and its present is still irregular.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -143,6 +149,8 @@ The passé composé uses **être**, not **avoir**:
 
 **faire** sounds like **fehr**. It does not mean “to take”; **prendre** means “to take.”
 
+**Present: irregular.**
+
 | Subject | Form | Sounds like |
 | --- | --- | --- |
 | je | **fais** | feh |
@@ -175,6 +183,8 @@ Recognize the whole pattern:
 
 **prendre** sounds like **prahn-druh**.
 
+**Present: irregular.**
+
 | Subject | Form | Sounds like |
 | --- | --- | --- |
 | je | **prends** | prahn |
@@ -193,6 +203,8 @@ Past participle: **pris** (pree). *J’ai pris* — I took / I have taken.
 ## Mettre — to put / to put on
 
 **mettre** sounds like **meh-truh**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -220,6 +232,8 @@ Past participle: **mis** (mee). *J’ai mis* — I put / I have put.
 
 **venir** sounds like **vuh-neer**.
 
+**Present: irregular.**
+
 | Subject | Form | Sounds like |
 | --- | --- | --- |
 | je | **viens** | vyehn (nasal) |
@@ -243,7 +257,7 @@ Commands:
 
 ### Same pattern as venir
 
-These reuse **viens / vient / venons / venu**. Learn the meaning; do not memorize a new table.
+These are irregular and reuse **viens / vient / venons / venu**. Learn the meaning; do not memorize a new table.
 
 | Verb | Meaning | Past participle | Example |
 | --- | --- | --- | --- |
@@ -259,6 +273,8 @@ These reuse **viens / vient / venons / venu**. Learn the meaning; do not memoriz
 ## Savoir — to know
 
 **savoir** sounds like **sah-vwahr**. Use it for facts, information, and knowing how to do something.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -285,6 +301,8 @@ Past participle: **su**. *J’ai su* — I knew / I found out.
 
 **croire** sounds like **krwahr**.
 
+**Present: irregular.**
+
 | Subject | Form | Sounds like |
 | --- | --- | --- |
 | je | **crois** | krwah |
@@ -304,6 +322,8 @@ Past participle: **cru**. *J’ai cru* — I believed / I thought.
 ## Vouloir — to want
 
 **vouloir** sounds like **voo-lwahr**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -337,6 +357,8 @@ Compare:
 
 **boire** sounds like **bwahr**.
 
+**Present: irregular.**
+
 | Subject | Form | Sounds like |
 | --- | --- | --- |
 | je | **bois** | bwah |
@@ -355,6 +377,8 @@ Past participle: **bu**. *J’ai bu* — I drank / I have drunk.
 ## Pouvoir — can / to be able to
 
 **pouvoir** sounds like **poo-vwahr**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -376,6 +400,8 @@ Use **pouvoir + infinitive**:
 ## Devoir — to have to / must
 
 **devoir** sounds like **duh-vwahr**. Use **devoir + infinitive**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -416,6 +442,8 @@ Key forms:
 
 **falloir** sounds like **fah-lwahr**. It is used only with **il**. There is no **je faut**.
 
+**Present: irregular.**
+
 | Form | Sounds like | Meaning |
 | --- | --- | --- |
 | **il faut** | eel fo | it is necessary / you have to |
@@ -443,6 +471,8 @@ Compare:
 
 **partir** sounds like **par-teer**.
 
+**Present: irregular.**
+
 | Subject | Form | Sounds like |
 | --- | --- | --- |
 | je | **pars** | par |
@@ -465,7 +495,7 @@ Past participle: **parti, partie, partis, parties**.
 <a id="regular-er"></a>
 ## Regular -er verbs — parler, aider, aimer, and donner
 
-Most French verbs follow the **-er** pattern. Remove **-er**, then add:
+**Present: regular.** Most French verbs follow this **-er** pattern. Remove **-er**, then add:
 
 | Subject | Ending | Parler — to speak | Aider — to help |
 | --- | --- | --- | --- |
@@ -503,7 +533,7 @@ Before a vowel or silent **h**, **je** shortens to **j’**: *j’aime; j’aide
 
 ### Appeler spelling
 
-**appeler** means “to call.” It doubles the **l** in most present forms:
+**appeler** means “to call.” It is regular. It doubles the **l** in most present forms:
 
 | Subject | Form |
 | --- | --- |
@@ -522,7 +552,7 @@ Past participle: **appelé**. *J’ai appelé* — I called.
 <a id="regular-ir"></a>
 ## Regular -ir verbs — finir
 
-Drop **-ir**, then add the ending. **choisir, réussir, réfléchir, grandir, remplir, obéir, agir,** and **réagir** copy **finir**.
+**Present: regular.** Drop **-ir**, then add the ending. **choisir, réussir, réfléchir, grandir, remplir, obéir, agir,** and **réagir** copy **finir**.
 
 | Subject | Ending | Finir — to finish | Sounds like |
 | --- | --- | --- | --- |
@@ -545,7 +575,7 @@ Past participle: drop **-ir**, add **-i**. **fini, choisi, réussi**. *J’ai fi
 
 ### -ir verbs with -er endings
 
-**ouvrir, offrir, couvrir, découvrir,** and **souffrir** use the **-er** present endings, not **-iss-**.
+**ouvrir, offrir, couvrir, découvrir,** and **souffrir** are irregular. Their present endings match **-er**, not **-iss-**.
 
 | Subject | Ouvrir — to open |
 | --- | --- |
@@ -559,9 +589,9 @@ Past participle: drop **-ir**, add **-i**. **fini, choisi, réussi**. *J’ai fi
 The past participle is **-ert**, not **-é**: **ouvert, offert, couvert, découvert, souffert**. *J’ai ouvert la porte.* — I opened the door.
 
 <a id="regular-re"></a>
-## Regular -re verbs — attendre
+## -dre verbs — attendre
 
-Drop **-re**, then add the ending. **vendre, répondre, perdre, entendre, rendre,** and **descendre** copy **attendre**.
+**Present: irregular.** This is the shared present for verbs in **-dre**, except **prendre**. Drop **-re**, then add the ending. **vendre, répondre, perdre, entendre, rendre,** and **descendre** copy **attendre**.
 
 | Subject | Ending | Attendre — to wait | Sounds like |
 | --- | --- | --- | --- |
@@ -580,11 +610,13 @@ Past participle: drop **-re**, add **-u**. **attendu, vendu, répondu**. *J’ai
 - Nous vendons la maison. — We are selling the house.
 - Il a répondu. — He answered.
 
-**Être, faire, dire, mettre, prendre,** and **boire** end in **-re** but do not follow this pattern. **Prendre** matches it only in **je, tu,** and **il**. Then it changes: **nous prenons, vous prenez, ils prennent,** past participle **pris**.
+**Mettre** is also irregular. Its present uses these same endings: **je mets, nous mettons.** Its past participle is **mis**. **Prendre** matches this present only in **je, tu,** and **il**, then changes: **nous prenons, vous prenez, ils prennent.** **Être, faire, dire,** and **boire** do not use this present.
 
 ## Comprendre — to understand / to include
 
 **comprendre** sounds like **kohn-prahn-druh**.
+
+**Present: irregular.** Same present pattern as **prendre**.
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -604,6 +636,8 @@ Past participle: **compris**. *J’ai compris* — I understood / I have underst
 ## Dire — to say / to tell
 
 **dire** sounds like **deer**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -628,6 +662,8 @@ Past participle: **dit**. *J’ai dit* — I said / I have said.
 ## Voir — to see / to understand
 
 **voir** sounds like **vwahr**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -656,6 +692,8 @@ Unlike English, **regarder** and **écouter** take their object directly—do no
 ## Tenir — to hold / to keep
 
 **tenir** sounds like **tuh-neer**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -686,6 +724,8 @@ Same stem as **tenir** (**tiens / tient / tenu**), meanings only: **obtenir** to
 
 **vivre** sounds like **vee-vruh**.
 
+**Present: irregular.**
+
 | Subject | Form | Sounds like |
 | --- | --- | --- |
 | je | **vis** | vee |
@@ -710,6 +750,8 @@ Compare:
 ## Sentir — to feel / to smell
 
 **sentir** sounds like **sahn-teer**.
+
+**Present: irregular.**
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
@@ -736,7 +778,9 @@ For how you feel physically or emotionally, use **se sentir**:
 <a id="manquer"></a>
 ## Manquer — to miss / to lack
 
-**manquer** sounds like **mahn-kay**. It is a regular **-er** verb.
+**manquer** sounds like **mahn-kay**.
+
+**Present: regular.** It follows **-er**.
 
 | Subject | Form | Sounds like |
 | --- | --- | --- |
