@@ -371,6 +371,25 @@ With **être**, the past participle agrees with the subject: **parti, partie, pa
 
 With **avoir**, it agrees only when a direct object is already before the verb: **vu, vue, vus, vues**. Otherwise it stays unchanged.
 
+## Avant de and après
+
+After **avant de**, the verb stays in the infinitive. It is not conjugated.
+
+- **Avant de partir, je mange.** — Before leaving, I eat.
+- **Avant de manger, lave-toi les mains.** — Before eating, wash your hands.
+
+**avant de** is for the same person. When the person changes, use **avant que** and the subjunctive: **Avant que Paul parte, je mange.** — Before Paul leaves, I eat.
+
+After **après**, **avoir** and **être** also stay in the infinitive. Put the past participle after them. Choose **avoir** or **être** with the same rule as the passé composé.
+
+- **Après avoir mangé, je sors.** — After eating, I go out.
+- **Après être arrivée, elle a appelé.** — After arriving, she called.
+- **Après m’être levé, je prends un café.** — After getting up, I have a coffee.
+
+With **être**, the past participle still agrees with the subject: **arrivée, arrivés, levé, levée**.
+
+- Wrong: *avant de je pars*; *après j’ai mangé*; *après suis arrivé*
+
 ## Passé simple — literary past
 
 The **passé simple** expresses a completed past action but is mainly literary:

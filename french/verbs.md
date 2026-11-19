@@ -27,6 +27,8 @@ French present tense can express both a habit and an action happening now. For e
 
 **falloir** has no **je** form. Use **il faut**. Full conjugations are below.
 
+Regular present-tense patterns: [**-er**](#regular-er), [**-ir**](#regular-ir), [**-re**](#regular-re).
+
 With **être**, agree with the subject: **allé, allée, allés, allées**. With **avoir**, agree only when a direct object is already before the verb: **vu, vue, vus, vues**. Otherwise it stays **vu**. **dû** becomes **due**.
 
 <a id="etre"></a>
@@ -56,7 +58,7 @@ Use the infinitive after another verb: *Je veux **être** médecin.* — I want 
 Imperfect — **was / used to be**:
 
 | Subject | Form | Sounds like | Meaning |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | je | **j’étais** | zhay-teh | I was |
 | tu | **tu étais** | too ay-teh | you were |
 | il / elle / on | **était** | ay-teh | he/she/one was |
@@ -460,6 +462,7 @@ Past participle: **parti, partie, partis, parties**.
 - **à partir de lundi** — starting Monday
 - **Il est temps de partir.** — It’s time to leave.
 
+<a id="regular-er"></a>
 ## Regular -er verbs — parler, aider, aimer, and donner
 
 Most French verbs follow the **-er** pattern. Remove **-er**, then add:
@@ -515,6 +518,69 @@ Past participle: **appelé**. *J’ai appelé* — I called.
 
 - Je l’appelle tout de suite. — I’ll call him/her right away.
 - Je m’appelle Arthur. — My name is Arthur. (literally: I call myself Arthur)
+
+<a id="regular-ir"></a>
+## Regular -ir verbs — finir
+
+Drop **-ir**, then add the ending. **choisir, réussir, réfléchir, grandir, remplir, obéir, agir,** and **réagir** copy **finir**.
+
+| Subject | Ending | Finir — to finish | Sounds like |
+| --- | --- | --- | --- |
+| je | **-is** | je finis | fee-nee |
+| tu | **-is** | tu finis | fee-nee |
+| il / elle | **-it** | il finit | fee-nee |
+| nous | **-issons** | nous finissons | fee-nee-sohn |
+| vous | **-issez** | vous finissez | fee-nee-say |
+| ils / elles | **-issent** | ils finissent | fee-nees |
+
+**Je, tu,** and **il** sound the same. Plural forms add **-iss-** before the ending.
+
+Past participle: drop **-ir**, add **-i**. **fini, choisi, réussi**. *J’ai fini* — I finished.
+
+- Je finis mes devoirs. — I am finishing my homework.
+- Nous choisissons ce livre. — We are choosing this book.
+- J’ai réussi l’examen. — I passed the exam.
+
+**Partir, sortir, dormir, venir,** and **tenir** end in **-ir** but do not add **-iss-**.
+
+### -ir verbs with -er endings
+
+**ouvrir, offrir, couvrir, découvrir,** and **souffrir** use the **-er** present endings, not **-iss-**.
+
+| Subject | Ouvrir — to open |
+| --- | --- |
+| je | **j’ouvre** |
+| tu | **tu ouvres** |
+| il / elle | **il ouvre** |
+| nous | **nous ouvrons** |
+| vous | **vous ouvrez** |
+| ils / elles | **ils ouvrent** |
+
+The past participle is **-ert**, not **-é**: **ouvert, offert, couvert, découvert, souffert**. *J’ai ouvert la porte.* — I opened the door.
+
+<a id="regular-re"></a>
+## Regular -re verbs — attendre
+
+Drop **-re**, then add the ending. **vendre, répondre, perdre, entendre, rendre,** and **descendre** copy **attendre**.
+
+| Subject | Ending | Attendre — to wait | Sounds like |
+| --- | --- | --- | --- |
+| je | **-s** | j’attends | ah-tahn |
+| tu | **-s** | tu attends | ah-tahn |
+| il / elle | none | il attend | ah-tahn |
+| nous | **-ons** | nous attendons | ah-tahn-dohn |
+| vous | **-ez** | vous attendez | ah-tahn-day |
+| ils / elles | **-ent** | ils attendent | ah-tahn |
+
+**Je, tu, il,** and **ils** sound the same. The final **d, s,** and **-ent** are silent. The **d** is pronounced in **nous** and **vous**.
+
+Past participle: drop **-re**, add **-u**. **attendu, vendu, répondu**. *J’ai attendu* — I waited.
+
+- J’attends le bus. — I am waiting for the bus.
+- Nous vendons la maison. — We are selling the house.
+- Il a répondu. — He answered.
+
+**Être, faire, dire, mettre, prendre,** and **boire** end in **-re** but do not follow this pattern. **Prendre** matches it only in **je, tu,** and **il**. Then it changes: **nous prenons, vous prenez, ils prennent,** past participle **pris**.
 
 ## Comprendre — to understand / to include
 
