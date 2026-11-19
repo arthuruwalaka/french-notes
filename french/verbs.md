@@ -440,9 +440,7 @@ Key forms:
 <a id="falloir"></a>
 ## Falloir — to be necessary
 
-**falloir** sounds like **fah-lwahr**. It is used only with **il**. There is no **je faut**.
-
-**Present: irregular.**
+**falloir** sounds like **fah-lwahr**. It is irregular and is used only with **il**. There is no **je faut**. The present is **il faut**.
 
 | Form | Sounds like | Meaning |
 | --- | --- | --- |
