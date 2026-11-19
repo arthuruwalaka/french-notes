@@ -27,7 +27,7 @@ French present tense can express both a habit and an action happening now. For e
 
 **falloir** has no **je** form. Use **il faut**. Full conjugations are below.
 
-A present is **regular** in two cases only: an **-er** verb, except **aller**, or an **-ir** verb that adds **-iss-**, like [**finir**](#regular-ir). Every other present below is **irregular**. [**Parler**](#regular-er) is the regular **-er** model. [**Attendre**](#regular-re) is irregular, and other **-dre** verbs copy it.
+A present is **regular** in two cases only: an **-er** verb, except **aller**, or an **-ir** verb that adds **-iss-**, like [**finir**](#regular-ir). Every other present below is **irregular**. [**Parler**](#regular-er) is the regular **-er** model. [**Attendre**](#regular-re) is one irregular pattern. [**Prendre**](#prendre) is not part of it.
 
 With **être**, agree with the subject: **allé, allée, allés, allées**. With **avoir**, agree only when a direct object is already before the verb: **vu, vue, vus, vues**. Otherwise it stays **vu**. **dû** becomes **due**.
 
@@ -179,6 +179,7 @@ Recognize the whole pattern:
 - Il écoute de la musique **en faisant** la vaisselle.
 - Not: *Je faisant*
 
+<a id="prendre"></a>
 ## Prendre — to take / to have
 
 **prendre** sounds like **prahn-druh**.
@@ -579,9 +580,9 @@ Past participle: drop **-ir**, add **-i**. **fini, choisi, réussi**. *J’ai fi
 The past participle is **-ert**, not **-é**: **ouvert, offert, couvert, découvert, souffert**. *J’ai ouvert la porte.* — I opened the door.
 
 <a id="regular-re"></a>
-## -dre verbs — attendre
+## Attendre and the verbs that copy it
 
-**Present: irregular.** This is the shared present for verbs in **-dre**, except **prendre**. Drop **-re**, then add the ending. **vendre, répondre, perdre, entendre, rendre,** and **descendre** copy **attendre**.
+**Present: irregular.** This table is only for **attendre, vendre, répondre, perdre, entendre, rendre,** and **descendre**. Drop **-re**, then add the ending.
 
 | Subject | Ending | Attendre — to wait | Sounds like |
 | --- | --- | --- | --- |
@@ -600,7 +601,7 @@ Past participle: drop **-re**, add **-u**. **attendu, vendu, répondu**. *J’ai
 - Nous vendons la maison. — We are selling the house.
 - Il a répondu. — He answered.
 
-**Mettre** is also irregular. Its present uses these same endings: **je mets, nous mettons.** Its past participle is **mis**. **Prendre** matches this present only in **je, tu,** and **il**, then changes: **nous prenons, vous prenez, ils prennent.** **Être, faire, dire,** and **boire** do not use this present.
+**Prendre** does not use this table. Use the [**prendre**](#prendre) forms: **nous prenons, vous prenez, ils prennent**, past participle **pris**.
 
 ## Comprendre — to understand / to include
 
