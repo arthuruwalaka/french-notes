@@ -518,16 +518,8 @@ The endings **-e, -es,** and **-ent** are normally silent.
 
 Before a vowel or silent **h**, **je** shortens to **j’**: *j’aime; j’aide; j’habite; j’écoute*.
 
-### Manger spelling
-
 **manger** follows the regular **-er** endings, but keeps an extra **e** in **nous mangeons** so the **g** retains its “zh” sound:
-
-- je mange
-- tu manges
-- il/elle mange
 - **nous mangeons**
-- vous mangez
-- ils/elles mangent
 
 ### Appeler spelling
 
