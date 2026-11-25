@@ -93,15 +93,6 @@ Natural exchange:
 
 Use **s’il te plaît** with one person informally.
 
-## Stressed pronouns
-
-The full set is **moi, toi, lui, elle, nous, vous, eux, elles**. It is in [Grammar](grammar.md), under object pronouns.
-
-- C’est pour toi. — It is for you.
-- Toi et moi. — You and me.
-- Donne-le-moi. — Give it to me.
-- Elle est rentrée chez elle. — She went home.
-
 ## Hunger and time
 
 French uses **avoir** (“to have”) for hunger:

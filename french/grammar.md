@@ -138,26 +138,6 @@ The pronoun’s role depends on the verb:
 - Il **me** parle. — He speaks **to me**. (indirect)
 - Je **me** lave. — I wash **myself**. (reflexive)
 
-Stressed pronouns go after a preposition, for emphasis, or in a short answer.
-
-| Subject | Stressed | At someone’s home |
-| --- | --- | --- |
-| je | **moi** | **chez moi** — at my house |
-| tu | **toi** | **chez toi** — at your house |
-| il | **lui** | **chez lui** — at his house |
-| elle | **elle** | **chez elle** — at her house |
-| nous | **nous** | **chez nous** — at our house |
-| vous | **vous** | **chez vous** — at your house |
-| ils | **eux** | **chez eux** — at their house |
-| elles | **elles** | **chez elles** — at their house |
-
-- avec moi — with me
-- pour toi — for you
-- entre toi et moi — between you and me
-- **Toi**, je t’aime. — **You**, I love.
-- C’est pour elle. — It is for her.
-- Je parle avec eux. — I am talking with them.
-
 As an indirect object, **lui** can mean “to him” or “to her”: **Je lui parle.** After a preposition, **lui** means “him,” and **elle** means “her.”
 
 ### Exception: affirmative commands
@@ -171,6 +151,26 @@ In a positive command, the pronoun goes **after** the verb with a hyphen:
 In a negative command, it returns before the verb:
 
 - Ne **me** donne pas ça. — Do not give me that.
+
+## Stressed pronouns
+
+Stressed pronouns go after a preposition, for emphasis, or in a short answer.
+
+| Pronoun | Meaning | Example |
+| --- | --- | --- |
+| **moi** | me | avec **moi** — with me |
+| **toi** | you | pour **toi** — for you |
+| **lui** | him | chez **lui** — at his house |
+| **elle** | her | chez **elle** — at her house |
+| **nous** | us | chez **nous** — at our house |
+| **vous** | you | chez **vous** — at your house |
+| **eux** | them (masculine) | avec **eux** — with them |
+| **elles** | them (feminine) | avec **elles** — with them |
+
+- **Toi**, je t’aime. — **You**, I love.
+- C’est pour elle. — It is for her.
+- entre toi et moi — between you and me
+- Elle est rentrée chez elle. — She went home.
 
 ## Reflexive pronouns
 
