@@ -138,15 +138,27 @@ The pronoun’s role depends on the verb:
 - Il **me** parle. — He speaks **to me**. (indirect)
 - Je **me** lave. — I wash **myself**. (reflexive)
 
-Use stressed pronouns such as **moi/toi** after a preposition or for emphasis:
+Stressed pronouns go after a preposition, for emphasis, or in a short answer.
+
+| Subject | Stressed | At someone’s home |
+| --- | --- | --- |
+| je | **moi** | **chez moi** — at my house |
+| tu | **toi** | **chez toi** — at your house |
+| il | **lui** | **chez lui** — at his house |
+| elle | **elle** | **chez elle** — at her house |
+| nous | **nous** | **chez nous** — at our house |
+| vous | **vous** | **chez vous** — at your house |
+| ils | **eux** | **chez eux** — at their house |
+| elles | **elles** | **chez elles** — at their house |
 
 - avec moi — with me
 - pour toi — for you
-- avec lui — with him
-- avec elle — with her
+- entre toi et moi — between you and me
 - **Toi**, je t’aime. — **You**, I love.
+- C’est pour elle. — It is for her.
+- Je parle avec eux. — I am talking with them.
 
-As an indirect object, **lui** can mean “to him” or “to her.” After a preposition, **lui** means “him,” while **elle** means “her.”
+As an indirect object, **lui** can mean “to him” or “to her”: **Je lui parle.** After a preposition, **lui** means “him,” and **elle** means “her.”
 
 ### Exception: affirmative commands
 

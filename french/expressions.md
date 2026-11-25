@@ -95,19 +95,12 @@ Use **s’il te plaît** with one person informally.
 
 ## Stressed pronouns
 
-- **moi** = me/myself
-- **toi** = you/yourself (informal singular)
-
-Use them after prepositions, for emphasis, or in short answers:
+The full set is **moi, toi, lui, elle, nous, vous, eux, elles**. It is in [Grammar](grammar.md), under object pronouns.
 
 - C’est pour toi. — It is for you.
 - Toi et moi. — You and me.
 - Donne-le-moi. — Give it to me.
-
-**vous** means formal singular “you” or plural “you”:
-
-- Vous êtes là. — You are there.
-- Je vous vois. — I see you.
+- Elle est rentrée chez elle. — She went home.
 
 ## Hunger and time
 
